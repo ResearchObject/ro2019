@@ -31,18 +31,18 @@ One such approach is [Research Object](http://www.researchobject.org/) which has
 *   Scientific domains - bioinformatics, systems biology (e.g. [COMBINE](http://co.mbine.org/documents/archive) Archives), health informatics (e.g. [BioComputeObject](https://osf.io/h59uh/));
 *   Tasks - handling big data ([BDBags](http://bd2k.ini.usc.edu/tools/bdbag/)), reproducible workflows ([Common Workflow Language](http://www.commonwl.org/)), scholarly communication and publishing ([Dryad](https://datadryad.org/), [dataONE](https://www.dataone.org/));
 *   Platforms:
-    *   Virtual Research Environments, e.g. the EVER-EST VRE for Earth Sciences;
-    *   Community output aggregators such as the EU's OpenAIRE, FAIRDOMHub, CodeOcean and Open Science Framework.
+    *   Virtual Research Environments, e.g. the [EVER-EST](http://ever-est.eu/) VRE for Earth Sciences;
+    *   Community output aggregators such as the EU's [OpenAIRE](https://www.openaire.eu/), [FAIRDOMHub](https://fairdomhub.org/), [CodeOcean](https://codeocean.com/) and [Open Science Framework](https://osf.io/).
 *   Stakeholders
-    *   Publishers - such as eLife's Reproducible Document Stack project and science.ai, 
-    *   Repository providers such a dataONE and Dryad; 
-    *   Funders, such as the EU (EOSC) and NIH (Data Commons)
+    *   Publishers - such as eLife's [Reproducible Document Stack](https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-the-next-generation-research-article) project and [science.ai](https://science.ai/), 
+    *   Repository providers such a [dataONE](https://www.dataone.org/) and [Dryad](https://datadryad.org/) and [Mendeley Data](https://data.mendeley.com); 
+    *   Funders, such as the EU ([European Open Science Cloud](https://ec.europa.eu/digital-single-market/en/european-open-science-cloud)) and NIH (e.g. [Data Commons](https://commonfund.nih.gov/bd2k/commons))
 
 However, many challenges remain as to how to increase Research Object uptake with data providers, researchers, infrastructures, publishers and other stakeholders; credit and tracking metrics; develop supporting tooling; building effective community efforts and the relationship of rich metadata manifests with emerging container platforms.
 
 In this workshop, following on from the successful [RO2018](http://www.researchobject.org/ro2018/) held at eScience 2018, we will explore recent advancements in Research Objects and publishing of research data. 
 
-The workshop aims for a mix of presentation sessions and "unconferencing" sessions including:
+This workshop aims for a mix of presentation sessions and "unconferencing" sessions including:
 
 *   Keynotes and invited talks
 *   Presentations selected from short article submissions and extended abstracts
