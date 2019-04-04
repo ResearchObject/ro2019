@@ -1,4 +1,4 @@
-# Workshop on Research Object 2019 (RO2019)
+# Workshop on Research Objects 2019 (RO2019)
 
 _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_
 
