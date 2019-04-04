@@ -28,8 +28,6 @@ A number of community initiatives have begun to explore how to package various m
 
 One such approach is [Research Object](http://www.researchobject.org/) which has proposed a way to _package_ and _describe_ research outputs, data, methods, workflows, provenance and structured metadata, reusing existing Web standards and formats. Research Objects, and Research Object-like approaches have gathered pace across: 
 
-
-
 *   Scientific domains - bioinformatics, systems biology (e.g. COMBINE Archives), health informatics (e.g. BioComputeObject);
 *   Tasks - handling big data (BDBags), reproducible workflows (Common Workflow Language), scholarly communication and publishing (Dryad, dataONE);
 *   Platforms:
@@ -74,21 +72,21 @@ RO2019 encourages _open peer review_, and recommend that reviewers are named and
 
 Carole Goble heads[ researchobject.org](http://www.researchobject.org) along with her team in the [eScience Lab](http://www.esciencelab.org.uk/) at the University of Manchester, whose mission is to disseminate knowledge about research objects, their concept and their adoption. She has spent 25 years working in e-Science on computational workflows, reproducible science, open sharing, and knowledge and metadata management in a range of disciplines. She co-established the [myExperiment.org](https://doi.org/10.1093/nar/gkq429) workflow repository and the [FAIRDOMHub.org](https://doi.org/10.1093/nar/gkw1032) for systems biology asset sharing. She is the co-lead of the interoperability platform for [ELIXIR](https://www.elixir-europe.org/), the EU Research Infrastructure for Life Sciences,  Head of Node of ELIXIR-UK and co-founder of the UK's Software Sustainability Institute. She has keynoted twice for IEEE e-Science (2005, 2012). In 2008 she was honoured by Microsoft Jim Gray award for outstanding contributions to eScience.
 
-[http://orcid.org/0000-0003-1219-2137](http://orcid.org/0000-0003-1219-2137)
+[https://orcid.org/0000-0003-1219-2137](https://orcid.org/0000-0003-1219-2137)
 
 
 #### Raul Palma (Poznan Supercomputing and Networking Center, Poland) 
 
 Raul Palma is the semantic technologies coordinator in the network services division at Poznan Supercomputing and Networking Center ([PSNC](http://www.man.poznan.pl/)). He has more than twelve years of experience in research and development in different areas related to Artificial Intelligence, such as knowledge representation, discovery and reasoning, Open and Linked Data, and the application of Semantic technologies in different domains. He has been involved in the development of the Research Object model and supporting technologies since their conception, and has been devoted to their dissemination, adoption and exploitation in different domains. He has led the development team of the research object management platform ROHub ([http://www.rohub.org/](http://www.rohub.org/)), built entirely around the research object model and inspired by sustainable software management principles. Currently, he is leading PSNC activities in [EVER-EST](http://ever-est.eu/) project, where Research Objects and ROHub have been used as the cornerstone to build a Virtual Research Environment for Earth Sciences. An ACM member and former MAE-AECI scholarship holder, Raul holds a Ph.D. in Computer Science and Artificial Intelligence (cum laude) and regularly publishes and reviews for top scientific conferences and journals in the area.
 
-[http://orcid.org/0000-0003-4289-4922](http://orcid.org/0000-0003-4289-4922) 
+[https://orcid.org/0000-0003-4289-4922](https://orcid.org/0000-0003-4289-4922) 
 
 
 #### Stian Soiland-Reyes (The University of Manchester, UK; Apache Software Foundation) 
 
 Stian Soiland-Reyes is a senior Research Software Engineer, working at the [eScience Lab](http://www.esciencelab.org.uk/) in the University of Manchester since 2006. His research and development interests are in reproducible Open Science by applying semantic technologies and distributed computing. He is a persistent advocate of Open Access, data sharing and improving practices of academic publishing. As a keen open source developer and Foundation Member of [Apache Software Foundation](https://www.apache.org/), he has a key role in development of the workflow system [Apache Taverna](http://taverna.incubator.apache.org/) (incubating) and [Common Workflow Language](http://orcid.org/) (he is on the CWL leadership team), as well as contributing to Linked Data initiatives such as [Commons RDF](https://commons.apache.org/proper/commons-rdf/), Jena and JSON-LD. Stian was a key participant in the [Wf4Ever project](http://wf4ever.org/), where he co-led specifications for preserving and publishing workflow-based [Research Objects](http://www.researchobject.org/specifications/). He is a co-author of the W3C [PROV-O](https://www.w3.org/TR/prov-o/) standard for provenance as well as the [PAV provenance ontology](https://doi.org/10.1186/2041-1480-4-37), he has contributed to the W3C [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/), [ORCID](http://orcid.org/) and [OAI-ORE](http://www.openarchives.org/ore/0.9/jsonld).  Stian currently work with the [BioExcel Centre of Excellence](https://bioexcel.eu/) with attention to interoperable workflows in HPC and HTC environments for biomolecular simulation and modelling.
 
-[http://orcid.org/0000-0001-9842-9718](http://orcid.org/0000-0001-9842-9718) 
+[https://orcid.org/0000-0001-9842-9718](https://orcid.org/0000-0001-9842-9718) 
 
 
 #### Daniel Garijo (University of Southern California, US)
