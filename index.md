@@ -20,7 +20,7 @@ Scholarly Communication has evolved significantly in recent years, with an incre
 
 A number of community initiatives have begun to explore how to package various multi-part research outcomes with their context, how to handle distributed and living content and how to port and safely exchange these "**Research Objects**" between platform and between researchers.
 
-One such approach is Research Object <[http://www.researchobject.org/](http://www.researchobject.org/)> which has proposed a way to _package_ and _describe_ research outputs, data, methods, workflows, provenance and structured metadata, reusing existing Web standards and formats. Research Objects, and Research Object-like approaches have gathered pace across: 
+One such approach is [Research Object](http://www.researchobject.org/) which has proposed a way to _package_ and _describe_ research outputs, data, methods, workflows, provenance and structured metadata, reusing existing Web standards and formats. Research Objects, and Research Object-like approaches have gathered pace across: 
 
 
 
@@ -36,11 +36,9 @@ One such approach is Research Object <[http://www.researchobject.org/](http://ww
 
 However, many challenges remain as to how to increase Research Object uptake with data providers, researchers, infrastructures, publishers and other stakeholders; credit and tracking metrics; develop supporting tooling; building effective community efforts and the relationship of rich metadata manifests with emerging container platforms.
 
-In this workshop, following on from the successful RO2018 held at eScience 2018, we will explore recent advancements in Research Objects and publishing of research data. See also <[http://www.researchobject.org/ro2018/](http://www.researchobject.org/ro2018/)>
+In this workshop, following on from the successful [RO2018](http://www.researchobject.org/ro2018/) held at eScience 2018, we will explore recent advancements in Research Objects and publishing of research data. 
 
 The workshop aims for a mix of presentation sessions and "unconferencing" sessions including:
-
-
 
 *   Keynotes and invited talks
 *   Presentations selected from short article submissions and extended abstracts
@@ -58,7 +56,7 @@ RO2019 encourages _open peer review_, and recommend that reviewers are named and
 *   2019-06-10 RO2019 submissions due
 *   2019-07-01 RO2019 Notification of acceptance
 *   2019-07-01 Preliminary RO2019 Programme w/ keynote speakers
-*   _2019-07-15 Camera-ready papers due (_incl. accepted RO2019 workshop papers)
+*   2019-07-15 Camera-ready papers due for accepted papers
 *   2019-09-02 RO2019 poster/demo submissions due
 *   2019-09-09 RO2019 Programme finalized
 *   2019-09-24 RO2019 starts at IEEE eScience 2019
