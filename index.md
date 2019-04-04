@@ -28,8 +28,8 @@ A number of community initiatives have begun to explore how to package various m
 
 One such approach is [Research Object](http://www.researchobject.org/) which has proposed a way to _package_ and _describe_ research outputs, data, methods, workflows, provenance and structured metadata, reusing existing Web standards and formats. Research Objects, and Research Object-like approaches have gathered pace across: 
 
-*   Scientific domains - bioinformatics, systems biology (e.g. COMBINE Archives), health informatics (e.g. BioComputeObject);
-*   Tasks - handling big data (BDBags), reproducible workflows (Common Workflow Language), scholarly communication and publishing (Dryad, dataONE);
+*   Scientific domains - bioinformatics, systems biology (e.g. [COMBINE](http://co.mbine.org/documents/archive) Archives), health informatics (e.g. [BioComputeObject](https://osf.io/h59uh/));
+*   Tasks - handling big data ([BDBags](http://bd2k.ini.usc.edu/tools/bdbag/)), reproducible workflows ([Common Workflow Language](http://www.commonwl.org/)), scholarly communication and publishing ([Dryad](https://datadryad.org/), [dataONE](https://www.dataone.org/));
 *   Platforms:
     *   Virtual Research Environments, e.g. the EVER-EST VRE for Earth Sciences;
     *   Community output aggregators such as the EU's OpenAIRE, FAIRDOMHub, CodeOcean and Open Science Framework.
@@ -64,7 +64,6 @@ RO2019 encourages _open peer review_, and recommend that reviewers are named and
 *   2019-09-02 RO2019 poster/demo submissions due
 *   2019-09-09 RO2019 Programme finalized
 *   2019-09-24 RO2019 starts at IEEE eScience 2019
-
 
 ## Short bio of the organizers
 
