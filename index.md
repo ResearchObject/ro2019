@@ -48,7 +48,7 @@ The workshop aims for a mix of presentation sessions and "unconferencing" sessio
 *   5-minute Lightning talks for ad-hoc presentations and hot topics
 *   ~1 hour break-out sessions to further build relationships across scientific domains and RO practitioners.
 
-Submissions will be welcome for **Short articles** (about 4-8 pages), **Abstracts** for oral communication (1-2 pages) and **Poster and demo abstracts **(1-2 pages)
+Submissions will be welcome for **Short articles** (about 4-8 pages), **Abstracts** for oral communication (1-2 pages) and **Poster and demo abstracts** (1-2 pages)
 
 RO2019 encourages _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. 
 
