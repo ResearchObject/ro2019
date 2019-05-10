@@ -108,7 +108,7 @@ _**Note:** Pending Confirmation_
 *   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
 *   José Manuel Gómez Pérez (expertsystem.com, Spain)
 *   Raja Mazumder (BioComputeObjects, George Washington University, USA)
-*   Kristian Garcia (DataCite)
+*   Kristian Garza (DataCite)
 *   Helen M Glaves (British Geological Survey, UK)
 *   Eoghan Ó Carragáin (Univ College Cork, Ireland)
 *   Paolo Manghi (Open AIRE and CNR, Pisa Italy)
