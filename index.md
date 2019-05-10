@@ -4,7 +4,7 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_
 
 * **Location:** San Diego, CA, US
 * **Venue:** [IEEE eScience 2019](https://escience2019.sdsc.edu) (fees apply)
-* **When:** Monday 24 September 2019 (2019-09-24)
+* **When:** Tuesday 24 September 2019 (2019-09-24)
 * **Duration:** 1 day
 * **Previous workshop:** [RO2018](http://www.researchobject.org/ro2018/)
 
