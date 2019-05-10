@@ -54,6 +54,9 @@ Submissions will be welcome for **Short articles** (about 4-8 pages), **Abstract
 
 RO2019 encourages _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. 
 
+* [Submit via EasyChair](https://easychair.org/conferences/?conf=ro2019)
+* [Submit via GitHub](https://github.com/ResearchObject/ro2019/issues)
+
 
 ## Timeline
 
@@ -94,8 +97,6 @@ Stian Soiland-Reyes is a senior Research Software Engineer, working at the [eSci
 Daniel is a researcher at the[ Information Sciences Institute](http://isi.edu/) of the[ University of Southern California](http://www.usc.edu/) and along term collaborator with the[ Ontology Engineering Group](http://www.oeg-upm.net/) at the[ Artificial Intelligence Department](http://www.dia.fi.upm.es/) of the Computer Science Faculty of[ Universidad Politécnica de Madrid](http://www.upm.es/institucional). His research activities focus on[ e-Science](http://dbpedia.org/resource/E-Science) and the[ Semantic Web](http://semanticweb.org/wiki/Category:Topic_Semantic_Web), specifically on how to increase the understandability of [scientific workflows](http://en.wikipedia.org/wiki/Scientific_workflow_system) using their[ provenance](http://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance) (i.e., steps, outputs, inputs, intermediate results) and exposing them as[ Linked Data](http://www.w3.org/DesignIssues/LinkedData.html).  He has participated in[ standardization efforts](http://www.w3.org/TR/prov-o/) and collaborated with different researchers throughout his career, which have led to significant contributions to my PhD work. He has been involved in the development of the Research Object model and its ontologies since the concepts inception in the EU project Wf4ever.		
 
 [https://orcid.org/0000-0003-0454-7145](https://orcid.org/0000-0003-0454-7145)
-
-
 
 
 ## Program Committee
