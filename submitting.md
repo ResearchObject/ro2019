@@ -1,7 +1,3 @@
-date: 2018-04-19 11:34:20+00:00
-layout: page
-title: Guide for submitting to RO2018
----
 # Guide for submitting to RO2018
 
 This page describes how authors could submit to the [Workshop on Research Objects (RO2019)](http://www.researchobject.org/ro2019/).
@@ -11,18 +7,9 @@ tl;dr: Preprint (and additional resources) should be uploaded to the [RO Zenodo 
 The Zenodo research object is submitted for review in [EasyChair](https://easychair.org/conferences/?conf=ro2019).
 
 Upon acceptance, the RO2019 proceedings link to Green Open Access preprints/ROs in Zenodo, and DOI to papers accepted for the IEEE eScience proceedings.
-	
-  * Submission types
-  * [Timeline](/ro2018/#timeline)
-  * Formats	
-  * Submitting
-  * Open Peer Review 
-  * Contact
-  * Guidance
-    * Author abstract/article
-    * Upload to Zenodo
-    * Submit for review in Easychair
-    * Update in Zenodo
+
+* Table of Contents
+{:toc}
 
 ## Submission types
 
