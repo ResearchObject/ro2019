@@ -1,4 +1,5 @@
 # Workshop on Research Objects 2019 (RO2019)
+{:.no_toc}
 
 _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_
 
@@ -52,9 +53,11 @@ This workshop aims for a mix of presentation sessions and "unconferencing" sessi
 *   5-minute Lightning talks for ad-hoc presentations and hot topics
 *   ~1 hour break-out sessions to further build relationships across scientific domains and RO practitioners.
 
-Submissions will be welcome for **Short articles** (about 4-8 pages), **Abstracts** for oral communication (1-2 pages) and **Poster and demo abstracts** (1-2 pages)
+## Submit
 
-RO2019 encourages _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. 
+Submissions are welcome for **Short articles** (about 4-8 pages), **Abstracts** for oral communication (1-2 pages) and **Poster and demo abstracts** (1-2 pages)
+
+RO2019 encourages _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired.
 
 Please see our [submission guide](submitting) for details, then either:
 
@@ -76,6 +79,7 @@ Please see our [submission guide](submitting) for details, then either:
 ## Short bio of the organizers
 
 #### Carole Goble (The University of Manchester, UK)
+{:.no_toc}
 
 Carole Goble heads [researchobject.org](http://www.researchobject.org) along with her team in the [eScience Lab](http://www.esciencelab.org.uk/) at the University of Manchester, whose mission is to disseminate knowledge about research objects, their concept and their adoption. She has spent 25 years working in e-Science on computational workflows, reproducible science, open sharing, and knowledge and metadata management in a range of disciplines. She co-established the [myExperiment.org](https://doi.org/10.1093/nar/gkq429) workflow repository and the [FAIRDOMHub.org](https://doi.org/10.1093/nar/gkw1032) for systems biology asset sharing. She is the co-lead of the interoperability platform for [ELIXIR](https://www.elixir-europe.org/), the EU Research Infrastructure for Life Sciences,  Head of Node of ELIXIR-UK and co-founder of the UK's Software Sustainability Institute. She has keynoted twice for IEEE e-Science (2005, 2012). In 2008 she was honoured by Microsoft Jim Gray award for outstanding contributions to eScience.
 
@@ -83,6 +87,7 @@ Carole Goble heads [researchobject.org](http://www.researchobject.org) along wit
 
 
 #### Raul Palma (Poznan Supercomputing and Networking Center, Poland) 
+{:.no_toc}
 
 Raul Palma is the semantic technologies coordinator in the network services division at Poznan Supercomputing and Networking Center ([PSNC](http://www.man.poznan.pl/)). He has more than twelve years of experience in research and development in different areas related to Artificial Intelligence, such as knowledge representation, discovery and reasoning, Open and Linked Data, and the application of Semantic technologies in different domains. He has been involved in the development of the Research Object model and supporting technologies since their conception, and has been devoted to their dissemination, adoption and exploitation in different domains. He has led the development team of the research object management platform ROHub ([http://www.rohub.org/](http://www.rohub.org/)), built entirely around the research object model and inspired by sustainable software management principles. Currently, he is leading PSNC activities in [EVER-EST](http://ever-est.eu/) project, where Research Objects and ROHub have been used as the cornerstone to build a Virtual Research Environment for Earth Sciences. An ACM member and former MAE-AECI scholarship holder, Raul holds a Ph.D. in Computer Science and Artificial Intelligence (cum laude) and regularly publishes and reviews for top scientific conferences and journals in the area.
 
@@ -90,6 +95,7 @@ Raul Palma is the semantic technologies coordinator in the network services divi
 
 
 #### Stian Soiland-Reyes (The University of Manchester, UK; Apache Software Foundation) 
+{:.no_toc}
 
 Stian Soiland-Reyes is a senior Research Software Engineer, working at the [eScience Lab](http://www.esciencelab.org.uk/) in the University of Manchester since 2006. His research and development interests are in reproducible Open Science by applying semantic technologies and distributed computing. He is a persistent advocate of Open Access, data sharing and improving practices of academic publishing. As a keen open source developer and Foundation Member of [Apache Software Foundation](https://www.apache.org/), he has a key role in development of the workflow system [Apache Taverna](http://taverna.incubator.apache.org/) (incubating) and [Common Workflow Language](http://orcid.org/) (he is on the CWL leadership team), as well as contributing to Linked Data initiatives such as [Commons RDF](https://commons.apache.org/proper/commons-rdf/), Jena and JSON-LD. Stian was a key participant in the [Wf4Ever project](http://wf4ever.org/), where he co-led specifications for preserving and publishing workflow-based [Research Objects](http://www.researchobject.org/specifications/). He is a co-author of the W3C [PROV-O](https://www.w3.org/TR/prov-o/) standard for provenance as well as the [PAV provenance ontology](https://doi.org/10.1186/2041-1480-4-37), he has contributed to the W3C [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/), [ORCID](http://orcid.org/) and [OAI-ORE](http://www.openarchives.org/ore/0.9/jsonld).  Stian currently work with the [BioExcel Centre of Excellence](https://bioexcel.eu/) with attention to interoperable workflows in HPC and HTC environments for biomolecular simulation and modelling.
 
@@ -97,6 +103,7 @@ Stian Soiland-Reyes is a senior Research Software Engineer, working at the [eSci
 
 
 #### Daniel Garijo (University of Southern California, US)
+{:.no_toc}
 
 Daniel is a researcher at the [Information Sciences Institute](http://isi.edu/) of the [University of Southern California](http://www.usc.edu/) and along term collaborator with the [Ontology Engineering Group](http://www.oeg-upm.net/) at the [Artificial Intelligence Department](http://www.dia.fi.upm.es/) of the Computer Science Faculty of [Universidad Politécnica de Madrid](http://www.upm.es/institucional). His research activities focus on [e-Science](http://dbpedia.org/resource/E-Science) and the [Semantic Web](http://semanticweb.org/wiki/Category:Topic_Semantic_Web), specifically on how to increase the understandability of [scientific workflows](http://en.wikipedia.org/wiki/Scientific_workflow_system) using their [provenance](http://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance) (i.e., steps, outputs, inputs, intermediate results) and exposing them as [Linked Data](http://www.w3.org/DesignIssues/LinkedData.html).  He has participated in [standardization efforts](http://www.w3.org/TR/prov-o/) and collaborated with different researchers throughout his career, which have led to significant contributions to my PhD work. He has been involved in the development of the Research Object model and its ontologies since the concepts inception in the EU project Wf4ever.
 

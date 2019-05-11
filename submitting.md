@@ -1,4 +1,5 @@
 # Guide for submitting to RO2019
+{:.no_toc}
 
 This page describes how authors could submit to the [Workshop on Research Objects (RO2019)](http://www.researchobject.org/ro2019/).
 
@@ -102,7 +103,6 @@ If you use a legacy tool it is recommended you upload both a PDF and HTML versio
 
 After using a word processor like Google Docs from a [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), Save/Download as **Web page (HTML, zipped)** as well as **PDF**:
 [![gdoc-html](assets/img/gdoc-html.png)](assets/img/gdoc-html.png)
-
 
 ### Zenodo
 
