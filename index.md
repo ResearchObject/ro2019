@@ -15,10 +15,12 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_
 
 ## Workshop Organisers
 
-*   Carole Goble (The University of Manchester, UK) <carole.goble@manchester.ac.uk> 
-*   Raul Palma (Poznan Supercomputing and Networking Center, Poland) <rpalma@man.poznan.pl>
-*   Stian Soiland-Reyes (The University of Manchester, UK; Apache Software Foundation) <soiland-reyes@manchester.ac.uk>
-*   Daniel Garijo (University of Southern California, US) <dgarijo@isi.edu> 
+* Carole Goble (The University of Manchester, UK)
+* Raul Palma (Poznan Supercomputing and Networking Center, Poland)
+* Stian Soiland-Reyes (The University of Manchester, UK; Apache Software Foundation)
+* Daniel Garijo (University of Southern California, US)
+
+Please contact the organizers at [ro2019@easychair.org](ro2019@easychair.org) for any questions.
 
 ## Description
 
@@ -26,17 +28,17 @@ Scholarly Communication has evolved significantly in recent years, with an incre
 
 A number of community initiatives have begun to explore how to package various multi-part research outcomes with their context, how to handle distributed and living content and how to port and safely exchange these "**Research Objects**" between platform and between researchers.
 
-One such approach is [Research Object](http://www.researchobject.org/) which has proposed a way to _package_ and _describe_ research outputs, data, methods, workflows, provenance and structured metadata, reusing existing Web standards and formats. Research Objects, and Research Object-like approaches have gathered pace across: 
+One such approach is [Research Object](http://www.researchobject.org/) which has proposed a way to _package_ and _describe_ research outputs, data, methods, workflows, provenance and structured metadata, reusing existing Web standards and formats. Research Objects, and Research Object-like approaches have gathered pace across:
 
-*   Scientific domains - bioinformatics, systems biology (e.g. [COMBINE](http://co.mbine.org/documents/archive) Archives), health informatics (e.g. [BioComputeObject](https://osf.io/h59uh/));
-*   Tasks - handling big data ([BDBags](http://bd2k.ini.usc.edu/tools/bdbag/)), reproducible workflows ([Common Workflow Language](http://www.commonwl.org/)), scholarly communication and publishing ([Dryad](https://datadryad.org/), [dataONE](https://www.dataone.org/));
-*   Platforms:
-    *   Virtual Research Environments, e.g. the [EVER-EST](http://ever-est.eu/) VRE for Earth Sciences;
-    *   Community output aggregators such as the EU's [OpenAIRE](https://www.openaire.eu/), [FAIRDOMHub](https://fairdomhub.org/), [CodeOcean](https://codeocean.com/) and [Open Science Framework](https://osf.io/).
-*   Stakeholders
-    *   Publishers - such as eLife's [Reproducible Document Stack](https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-the-next-generation-research-article) project and [science.ai](https://science.ai/), 
-    *   Repository providers such a [dataONE](https://www.dataone.org/) and [Dryad](https://datadryad.org/) and [Mendeley Data](https://data.mendeley.com); 
-    *   Funders, such as the EU ([European Open Science Cloud](https://ec.europa.eu/digital-single-market/en/european-open-science-cloud)) and NIH (e.g. [Data Commons](https://commonfund.nih.gov/bd2k/commons))
+* Scientific domains - bioinformatics, systems biology (e.g. [COMBINE](http://co.mbine.org/documents/archive) Archives), health informatics (e.g. [BioComputeObject](https://osf.io/h59uh/));
+* Tasks - handling big data ([BDBags](http://bd2k.ini.usc.edu/tools/bdbag/)), reproducible workflows ([Common Workflow Language](http://www.commonwl.org/)), scholarly communication and publishing ([Dryad](https://datadryad.org/), [dataONE](https://www.dataone.org/));
+* Platforms:
+  * Virtual Research Environments, e.g. the [EVER-EST](http://ever-est.eu/) VRE for Earth Sciences;
+  * Community output aggregators such as the EU's [OpenAIRE](https://www.openaire.eu/), [FAIRDOMHub](https://fairdomhub.org/), [CodeOcean](https://codeocean.com/) and [Open Science Framework](https://osf.io/).
+* Stakeholders
+  * Publishers - such as eLife's [Reproducible Document Stack](https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-the-next-generation-research-article) project and [science.ai](https://science.ai/), 
+  * Repository providers such a [dataONE](https://www.dataone.org/) and [Dryad](https://datadryad.org/) and [Mendeley Data](https://data.mendeley.com); 
+  * Funders, such as the EU ([European Open Science Cloud](https://ec.europa.eu/digital-single-market/en/european-open-science-cloud)) and NIH (e.g. [Data Commons](https://commonfund.nih.gov/bd2k/commons))
 
 However, many challenges remain as to how to increase Research Object uptake with data providers, researchers, infrastructures, publishers and other stakeholders; credit and tracking metrics; develop supporting tooling; building effective community efforts and the relationship of rich metadata manifests with emerging container platforms.
 
@@ -54,26 +56,28 @@ Submissions will be welcome for **Short articles** (about 4-8 pages), **Abstract
 
 RO2019 encourages _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. 
 
-* [Submit via EasyChair](https://easychair.org/conferences/?conf=ro2019)
+Please see our [submission guide](submitting) for details, then either:
+
+* [Submit via EasyChair](https://easychair.org/conferences/?conf=ro2019) _or_
 * [Submit via GitHub](https://github.com/ResearchObject/ro2019/issues)
 
 
 ## Timeline
 
-*   2019-06-24 RO2019 submissions due
-*   2019-07-15 RO2019 Notification of acceptance
-*   2019-07-15 Preliminary RO2019 Programme w/ keynote speakers
-*   2019-07-29 Camera-ready papers due for accepted papers
-*   2019-09-02 RO2019 poster/demo submissions due
-*   2019-09-09 RO2019 Programme finalized
-*   2019-09-24 RO2019 at IEEE eScience 2019
+* **2019-06-24** RO2019 submissions due
+* **2019-07-15** RO2019 Notification of acceptance
+* **2019-07-15** Preliminary RO2019 Programme w/ keynote speakers
+* **2019-07-29** Camera-ready papers due for accepted papers
+* **2019-09-02** RO2019 poster/demo submissions due
+* **2019-09-09** RO2019 Programme finalized
+* **2019-09-24** RO2019 at IEEE eScience 2019
 
 
 ## Short bio of the organizers
 
 #### Carole Goble (The University of Manchester, UK)
 
-Carole Goble heads[ researchobject.org](http://www.researchobject.org) along with her team in the [eScience Lab](http://www.esciencelab.org.uk/) at the University of Manchester, whose mission is to disseminate knowledge about research objects, their concept and their adoption. She has spent 25 years working in e-Science on computational workflows, reproducible science, open sharing, and knowledge and metadata management in a range of disciplines. She co-established the [myExperiment.org](https://doi.org/10.1093/nar/gkq429) workflow repository and the [FAIRDOMHub.org](https://doi.org/10.1093/nar/gkw1032) for systems biology asset sharing. She is the co-lead of the interoperability platform for [ELIXIR](https://www.elixir-europe.org/), the EU Research Infrastructure for Life Sciences,  Head of Node of ELIXIR-UK and co-founder of the UK's Software Sustainability Institute. She has keynoted twice for IEEE e-Science (2005, 2012). In 2008 she was honoured by Microsoft Jim Gray award for outstanding contributions to eScience.
+Carole Goble heads [researchobject.org](http://www.researchobject.org) along with her team in the [eScience Lab](http://www.esciencelab.org.uk/) at the University of Manchester, whose mission is to disseminate knowledge about research objects, their concept and their adoption. She has spent 25 years working in e-Science on computational workflows, reproducible science, open sharing, and knowledge and metadata management in a range of disciplines. She co-established the [myExperiment.org](https://doi.org/10.1093/nar/gkq429) workflow repository and the [FAIRDOMHub.org](https://doi.org/10.1093/nar/gkw1032) for systems biology asset sharing. She is the co-lead of the interoperability platform for [ELIXIR](https://www.elixir-europe.org/), the EU Research Infrastructure for Life Sciences,  Head of Node of ELIXIR-UK and co-founder of the UK's Software Sustainability Institute. She has keynoted twice for IEEE e-Science (2005, 2012). In 2008 she was honoured by Microsoft Jim Gray award for outstanding contributions to eScience.
 
 [https://orcid.org/0000-0003-1219-2137](https://orcid.org/0000-0003-1219-2137)
 
@@ -94,7 +98,7 @@ Stian Soiland-Reyes is a senior Research Software Engineer, working at the [eSci
 
 #### Daniel Garijo (University of Southern California, US)
 
-Daniel is a researcher at the[ Information Sciences Institute](http://isi.edu/) of the[ University of Southern California](http://www.usc.edu/) and along term collaborator with the[ Ontology Engineering Group](http://www.oeg-upm.net/) at the[ Artificial Intelligence Department](http://www.dia.fi.upm.es/) of the Computer Science Faculty of[ Universidad Politécnica de Madrid](http://www.upm.es/institucional). His research activities focus on[ e-Science](http://dbpedia.org/resource/E-Science) and the[ Semantic Web](http://semanticweb.org/wiki/Category:Topic_Semantic_Web), specifically on how to increase the understandability of [scientific workflows](http://en.wikipedia.org/wiki/Scientific_workflow_system) using their[ provenance](http://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance) (i.e., steps, outputs, inputs, intermediate results) and exposing them as[ Linked Data](http://www.w3.org/DesignIssues/LinkedData.html).  He has participated in[ standardization efforts](http://www.w3.org/TR/prov-o/) and collaborated with different researchers throughout his career, which have led to significant contributions to my PhD work. He has been involved in the development of the Research Object model and its ontologies since the concepts inception in the EU project Wf4ever.		
+Daniel is a researcher at the [Information Sciences Institute](http://isi.edu/) of the [University of Southern California](http://www.usc.edu/) and along term collaborator with the [Ontology Engineering Group](http://www.oeg-upm.net/) at the [Artificial Intelligence Department](http://www.dia.fi.upm.es/) of the Computer Science Faculty of [Universidad Politécnica de Madrid](http://www.upm.es/institucional). His research activities focus on [e-Science](http://dbpedia.org/resource/E-Science) and the [Semantic Web](http://semanticweb.org/wiki/Category:Topic_Semantic_Web), specifically on how to increase the understandability of [scientific workflows](http://en.wikipedia.org/wiki/Scientific_workflow_system) using their [provenance](http://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance) (i.e., steps, outputs, inputs, intermediate results) and exposing them as [Linked Data](http://www.w3.org/DesignIssues/LinkedData.html).  He has participated in [standardization efforts](http://www.w3.org/TR/prov-o/) and collaborated with different researchers throughout his career, which have led to significant contributions to my PhD work. He has been involved in the development of the Research Object model and its ontologies since the concepts inception in the EU project Wf4ever.
 
 [https://orcid.org/0000-0003-0454-7145](https://orcid.org/0000-0003-0454-7145)
 
