@@ -5,7 +5,7 @@ This page describes how authors could submit to the [Workshop on Research Object
 
 > tl;dr: Preprint (and additional resources) should be uploaded to the [RO Zenodo community](https://zenodo.org/deposit/new?c=ro).
 >
-> The Zenodo research object is submitted for review in [EasyChair](https://easychair.org/conferences/?conf=ro2019).
+> The Zenodo research object is submitted for review in [EasyChair](https://easychair.org/conferences/?conf=ro2019) or [GitHub](https://github.com/ResearchObject/ro2019/issues/new/choose)
 > 
 > Upon acceptance, the RO2019 proceedings link to Green Open Access preprints/ROs in Zenodo, and DOI to papers accepted for the IEEE eScience proceedings.
 
