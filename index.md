@@ -101,29 +101,5 @@ Daniel is a researcher at the[ Information Sciences Institute](http://isi.edu/) 
 
 ## Program Committee
 
-_**Note:** Pending Confirmation_
+_**Note:** PC Pending Confirmation. It will be published upon acceptance of PC members_
 
-*   David De Roure (University of Oxford and Alan Turing Institute, UK)
-*   Ian Foster (The University of Chicago, USA)
-*   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
-*   José Manuel Gómez Pérez (expertsystem.com, Spain)
-*   Raja Mazumder (BioComputeObjects, George Washington University, USA)
-*   Kristian Garza (DataCite)
-*   Helen M Glaves (British Geological Survey, UK)
-*   Eoghan Ó Carragáin (Univ College Cork, Ireland)
-*   Paolo Manghi (Open AIRE and CNR, Pisa Italy)
-*   Anita de Waard (Elsevier)
-*   Gareth Harvey (Mendeley Data)
-*   Naomi Penfold (eLife)
-*   Ronald Siebes (DANS, NL)
-*   Dimitris Koureas (Naturalis, NL)
-*   Carl Kesselman (University of Southern California, USA)
-*   Juliana Freire (NYU, USA)
-*   James Myers (SEAD project, University of Michigan, USA)
-*   Todd Carpenter (NISO, USA)
-*   Denis Parfenov (open knowledge, Ireland)
-*   Richard Hallett (DataCite)
-*   Cees Hof (DANS, Netherlands)
-*   Farah Zaib Khan (The University of Melbourne, Australia)
-*   Frederik Coppens (VIB, Belgium)
-*   Peter Sefton (University of Technology Sydney, Australia)
