@@ -61,8 +61,8 @@ RO2019 encourages _open peer review_, and recommend that reviewers are named and
 
 Please see our [submission guide](submitting) for details, then either:
 
+* [Submit via GitHub](https://github.com/ResearchObject/ro2019/issues/new/choose) -or-
 * [Submit via EasyChair](https://easychair.org/conferences/?conf=ro2019)
-* [Submit via GitHub](https://github.com/ResearchObject/ro2019/issues/new/choose)
 
 ## Timeline
 
