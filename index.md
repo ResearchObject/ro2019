@@ -69,7 +69,7 @@ Please see our [submission guide](submitting) for details, then either:
 * **2019-06-24** RO2019 submissions due
 * **2019-07-15** RO2019 Notification of acceptance
 * **2019-07-15** Preliminary RO2019 Programme w/ keynote speakers
-* **2019-07-29** Camera-ready papers due for accepted papers
+* **2019-07-29** Camera-ready papers due for accepted articles
 * **2019-09-02** RO2019 poster/demo submissions due
 * **2019-09-09** RO2019 Programme finalized
 * **2019-09-24** RO2019 at IEEE eScience 2019

@@ -1,6 +1,6 @@
 ---
 name: Short article
-about: Submit a short paper (~ 4-8 pages)
+about: Submit a short article (~ 4-8 pages)
 title: ''
 labels: article
 assignees: ''
