@@ -106,7 +106,7 @@ If you use a legacy tool it is recommended you upload both a PDF and HTML versio
 #### Example: Google Docs
 
 After using a word processor like Google Docs from a [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), Save/Download as **Web page (HTML, zipped)** as well as **PDF**:
-[![gdoc-html](/assets/img/gdoc-html.png)](/assets/img/gdoc-html.png)
+[![gdoc-html](assets/img/gdoc-html.png)](assets/img/gdoc-html.png)
 
 
 ### Zenodo
@@ -138,10 +138,10 @@ You may also want to fill in **Related Identifiers**, in particular if your subm
 If you have not already done so, [sign up for Zenodo](https://zenodo.org/signup/). We recommended to use your [ORCID](https://orcid.org/) account to simplify registration and login.
 
 Then, from the [Research Object Community](https://zenodo.org/communities/ro/) page in Zenodo, click [Upload](https://zenodo.org/deposit/new?c=ro) to add a new submission.
-[![Upload to Zenodo](/assets/img/zenodo-00-ro-upload.png)](/assets/img/zenodo-00-ro-upload.png)
+[![Upload to Zenodo](assets/img/zenodo-00-ro-upload.png)](assets/img/zenodo-00-ro-upload.png)
 
 Now upload both the HTML and PDF version of your article:
-[![zenodo-02-upload](/assets/img/zenodo-02-upload.png)](/assets/img/zenodo-02-upload.png)
+[![zenodo-02-upload](assets/img/zenodo-02-upload.png)](assets/img/zenodo-02-upload.png)
 
 It is recommended to also upload (or link) to related resources that support your work. Examples:
 	
@@ -159,37 +159,37 @@ It is recommended to also upload (or link) to related resources that support you
 However if these are already available in existing repositories (e.g. [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/)) you should instead refer to them by DOI or URL under **Related Identifiers** further down.
 
 Remember to click the **Start Upload** button:
-![Start Upload](/assets/img/zenodo-09-start-upload.png)
+![Start Upload](assets/img/zenodo-09-start-upload.png)
 
 At any point you can click the **Save** button to store the draft (upload and metadata) under your [Zenodo uploads](https://zenodo.org/deposit).
-[![Save](/assets/img/zenodo-10-save-then-publish.png)](/assets/img/zenodo-10-save-then-publish.png)
+[![Save](assets/img/zenodo-10-save-then-publish.png)](assets/img/zenodo-10-save-then-publish.png)
 
 Now fill in **Publication Type** (Conference), **Title** and **Authors**.
 Leave _DOI_ blank. (After acceptance you may create a _New Version_ of this Zenodo record and provide the published DOI from the IEEE proceedings).
-[![zenodo-03-info](/assets/img/zenodo-03-info.png)](/assets/img/zenodo-03-info.png)
+[![zenodo-03-info](assets/img/zenodo-03-info.png)](assets/img/zenodo-03-info.png)
 
 If the submission is an article, provide the article's abstract as **Description**. (For academic abstracts you may leave this field blank or provide your own shorter abstract)
 
 Under **Additional Notes** make it clear that this is a Preprint. Suggested text is:
 Preprint submitted to RO2019 workshop at IEEE eScience Conference 2019
-[![zenodo-04-notes-and-license](/assets/img/zenodo-04-notes-and-license.png)](/assets/img/zenodo-04-notes-and-license.png)
+[![zenodo-04-notes-and-license](assets/img/zenodo-04-notes-and-license.png)](assets/img/zenodo-04-notes-and-license.png)
 
 If you prefer a different Open Access license for your preprint, select one here. Note that the IEEE eScience Conference proceedings are unfortunately not open access, which is why we rely on the Zenodo uploads to make your accepted work available.
 
 If you have received funding for your research, e.g. from [H2020](https://ec.europa.eu/programmes/horizon2020/), then you may indicate this under **Funding**:
-[![zenodo-06-funding](/assets/img/zenodo-06-funding.png)](/assets/img/zenodo-06-funding.png)
+[![zenodo-06-funding](assets/img/zenodo-06-funding.png)](assets/img/zenodo-06-funding.png)
 
 If you have a web version of your submission, a website or webapp, or any related resources in other repositories that you would like to link to by DOI or URL, then add them under **Related Identifiers**:
-[![zenodo-07-related-identifiers](/assets/img/zenodo-07-related-identifiers.png)](/assets/img/zenodo-07-related-identifiers.png)
+[![zenodo-07-related-identifiers](assets/img/zenodo-07-related-identifiers.png)](assets/img/zenodo-07-related-identifiers.png)
 
 Finally, click Save followed by Publish:
-[![Save](/assets/img/zenodo-10-save-then-publish.png)](/assets/img/zenodo-10-save-then-publish.png)
+[![Save](assets/img/zenodo-10-save-then-publish.png)](assets/img/zenodo-10-save-then-publish.png)
 
 You will need to confirm that your upload is final:
-[![zenodo-12-confirm](/assets/img/zenodo-12-confirm.png)](/assets/img/zenodo-12-confirm.png)
+[![zenodo-12-confirm](assets/img/zenodo-12-confirm.png)](assets/img/zenodo-12-confirm.png)
 
 Now your preprint is uploaded to Zenodo:
-[![zenodo-12-ready](/assets/img/zenodo-12-ready.png)](/assets/img/zenodo-12-ready.png)
+[![zenodo-12-ready](assets/img/zenodo-12-ready.png)](assets/img/zenodo-12-ready.png)
 
 Copy the DOI or URL of the Zenodo Record, e.g. [https://sandbox.zenodo.org/record/214634](https://sandbox.zenodo.org/record/214634), as you will need it in the EasyChair submission for RO2019 peer review next.
 
@@ -202,19 +202,19 @@ After creating a Zenodo record (see above), you will need to submit it to RO2019
 From the [RO2019 EasyChair submission page](https://easychair.org/conferences/?conf=2019), click **Enter as an Author**.
 
 Add Corresponding **Author** to EasyChair. As you will be submitting your Zenodo record, you are **not** required to add co-authors again in EasyChair, unless _Corresponding Author_ is different from _Speaker_ or yourself.
-[![easychair-01-author](/assets/img/easychair-01-author.png)](/assets/img/easychair-01-author.png)
+[![easychair-01-author](assets/img/easychair-01-author.png)](assets/img/easychair-01-author.png)
 
 In the EasyChair **Abstract** field, you do **not** need to duplicate the abstract from Zenodo. Simply paste the **URL to the Zenodo record** or the permalink to your submission in another open repository.
-[![easychair-03-no-abstract](/assets/img/easychair-03-no-abstract.png)](/assets/img/easychair-03-no-abstract.png)
+[![easychair-03-no-abstract](assets/img/easychair-03-no-abstract.png)](assets/img/easychair-03-no-abstract.png)
 _Note: If you do not provide a Zenodo record URL in the abstract, you MUST upload a PDF to EasyChair._
 
 Select the **Category** of your submission type:
-[![easychair-04-category](/assets/img/easychair-04-category.png)](/assets/img/easychair-04-category.png)
+[![easychair-04-category](assets/img/easychair-04-category.png)](assets/img/easychair-04-category.png)
 
 If you created a PDF you may optionally also click **Browse** to upload it to EasyChair. The submitted preprint is assumed to be licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless stated otherwise.
 
 Finally **submit** your contribution for consideration:
-[![easychair-05-submit](/assets/img/easychair-05-submit.png)](/assets/img/easychair-05-submit.png)
+[![easychair-05-submit](assets/img/easychair-05-submit.png)](assets/img/easychair-05-submit.png)
 
 EasyChair should send you a confirmation email, and will send you more emails during the review process.
 
