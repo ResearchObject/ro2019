@@ -102,7 +102,7 @@ Daniel is a researcher at the[ Information Sciences Institute](http://isi.edu/) 
 ## Program Committee
 
 _**Note:** PC Pending Confirmation. It will be published upon acceptance of PC members_
-<!--
+<!---
 *   David De Roure (University of Oxford and Alan Turing Institute, UK)
 *   Ian Foster (The University of Chicago, USA)
 *   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
