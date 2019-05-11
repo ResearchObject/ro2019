@@ -2,11 +2,11 @@
 
 This page describes how authors could submit to the [Workshop on Research Objects (RO2019)](http://www.researchobject.org/ro2019/).
 
-tl;dr: Preprint (and additional resources) should be uploaded to the [RO Zenodo community](https://zenodo.org/deposit/new?c=ro).
-
-The Zenodo research object is submitted for review in [EasyChair](https://easychair.org/conferences/?conf=ro2019).
-
-Upon acceptance, the RO2019 proceedings link to Green Open Access preprints/ROs in Zenodo, and DOI to papers accepted for the IEEE eScience proceedings.
+> tl;dr: Preprint (and additional resources) should be uploaded to the [RO Zenodo community](https://zenodo.org/deposit/new?c=ro).
+>
+> The Zenodo research object is submitted for review in [EasyChair](https://easychair.org/conferences/?conf=ro2019).
+> 
+> Upon acceptance, the RO2019 proceedings link to Green Open Access preprints/ROs in Zenodo, and DOI to papers accepted for the IEEE eScience proceedings.
 
 * Table of Contents
 {:toc}
@@ -17,7 +17,7 @@ RO2019 welcome submissions for:
 
 ### Oral Communications
 
-* **Short articles**: (about 4-8 pages) for more developed research, software or data contributions
+* **Short articles**: (about 4-8 pages) for more developed research, software or data contributions 
 * **Abstracts**: (1-2 pages) for oral communication
 * **Poster and demo abstracts**: (1-2 pages)
 
@@ -25,15 +25,15 @@ The page limits are for guidance only, assuming reasonable font sizes and margin
 
 Workshop participants are also encouraged to separately propose _lighting talks_, _breakout sessions_ and ideas for discussion points for the _unconference_ session of the workshop.
 
-Submitted abstracts and articles can be in a range of open formats (e.g. HTML, ePub) and are particularly encouraged to be submitted in a FAIR research data packing format if appropriate. Guidance is provided below for those who do not have their own platform they wish to showcase.
-
-All accepted preprints will be published Open Access in the RO2019 proceedings. Unless indicated otherwise, the submitted preprint is assumed to be licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), and will, upon acceptance, be made available as Green Open Access on the [RO2019 website](http://www.researchobject.org/ro2019/) with DOI links to the Zenodo record (or other repository) and - if applicable - DOI for the published IEEE proceedings article.
-
-It is a requirement that at least one author of each accepted submission attends and presents at the RO2019 workshop and is registered through the [IEEE eScience 2019](https://escience2019.sdsc.edu/) system [Registration fees](https://escience2019.sdsc.edu/registration) applies.
-
-Submissions (or links to submissions) should be uploaded to the [RO Zenodo community](https://zenodo.org/deposit/new?c=ro) and submitted for review in[ EasyChair](https://easychair.org/conferences/?conf=ro2019). Open Peer Reviews will be published alongside the accepted contributions.
-
 For any questions, email the RO2019 Workshop Organizers at [ro2019@easychair.org](mailto:ro2019@easychair.org)
+
+## Requirements
+
+Unless indicated otherwise, the submitted preprint is assumed to be licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), and will, upon acceptance, be made available as **Green Open Access** on the [RO2019 website](http://www.researchobject.org/ro2019/) with DOI links to the Zenodo record and (where applicable) DOI for the published IEEE eScience Proceedings article.
+
+RO2019 may reformat your preprint for web publishing.
+
+It is a requirement that **at least one author** of each accepted submission attends the RO2019 workshop and **registers** using the [IEEE eScience 2019 system](https://escience2019.sdsc.edu/registration) (either for the workshop, or the whole conference). Registration fees applies.
 
 
 ## Formats
@@ -41,14 +41,6 @@ For any questions, email the RO2019 Workshop Organizers at [ro2019@easychair.org
 Submitted abstracts and articles can be in a range of **open formats** (e.g. [HTML5](https://www.w3.org/TR/html/), [ePub](https://www.w3.org/Submission/2017/SUBM-epub31-20170125/)) and are particularly encouraged to be submitted in a FAIR research data packing format. Guidance is provided below for those who do not have their own platform they wish to showcase.
 
 Accepted articles will be included in the IEEE eScience 2019 proceedings; a secondary PDF, which may use the [IEEE templates](https://www.ieee.org/conferences/publishing/templates.html), **may** be included in the submission or provided later by the author to the IEEE submission system (camera-ready deadline for IEEE articles 29 July 2019).
-
-## Requirements
-
-Unless indicated otherwise, the submitted preprint is assumed to be licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), and will, upon acceptance, be made available as **Green Open Access** on the [RO2019 website](http://www.researchobject.org/ro2019/) with DOI links to the Zenodo record and (where applicable) DOI for the published IEEE proceeding article.
-
-RO2019 may reformat your preprint for web publishing.
-
-It is a requirement that **at least one author** of each accepted submission attends the RO2019 workshop and **registers using the [IEEE eScience 2019 system](https://escience2019.sdsc.edu/registration) (either for the workshop, or the whole conference)**. Registration fees applies.
 
 
 ## Submitting
@@ -64,9 +56,12 @@ See guidance below for further details.
 
 RO2019 encourages _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. Reviewers are welcome to publish their reviews using the same guidelines as the research articles.
 
+Peer reviews will be published on the RO2019 website following the workshop.
+
 ## Contact
 
-For any questions, email the RO2019 Workshop Organizers at [ro2019@easychair.org ](mailto:ro2019@easychair.org)
+For any questions, email the RO2019 Workshop Organizers at [ro2019@easychair.org](mailto:ro2019@easychair.org)
+
 
 ## Guidance
 
@@ -112,17 +107,18 @@ After using a word processor like Google Docs from a [IEEE template](https://www
 ### Zenodo
 
 RO2019 promotes [Open Research](https://en.wikipedia.org/wiki/Open_research), and encourage authors to upload their Open Access preprint and resources to an open repository like [Zenodo](http://about.zenodo.org/), an Open Data repository provided by CERN and supported by [OpenAIRE](https://www.openaire.eu/).
+
 Perhaps the simplest (lower-case) "research object" is a [Zenodo](https://zenodo.org/) record that contains:
 	
 * Abstract/article as HTML
 * Abstract/article as PDF
 
 If you are new to Zenodo you can play with the separate [sandbox instance](https://sandbox.zenodo.org/) first, where we have provided an equivalent [sandbox RO community](https://sandbox.zenodo.org/communities/ro/). Note that RO2019 submissions must use the [main Zenodo](http://zenodo.org/) instead of the sandbox.
-Most of the information in the Zenodo form is optional, for RO2019 it is recommended you fill in these fields:
 
+Most of the information in the Zenodo form is optional, for RO2019 it is recommended you fill in these fields:
 	
   * **Type:** Conference
-	  * **Author:** Your Full Name (_in your_ _[preferred order](https://www.w3.org/International/questions/qa-personal-names)_)
+  * **Author:** Your Full Name (_in your_ _[preferred order](https://www.w3.org/International/questions/qa-personal-names)_)
   * **ORCID:** (your [ORCID ](https://orcid.org/) identifier)
   * **Title:** (_same as in article_)
   * **Additional notes:** Preprint submitted to RO2019 workshop at IEEE eScience Conference 2019
@@ -155,23 +151,25 @@ It is recommended to also upload (or link) to related resources that support you
   * [R](https://bookdown.org/yihui/rmarkdown/notebook.html) or [Jupyter](http://jupyter.org/) Notebooks
   * [Provenance](https://www.w3.org/TR/prov-overview/) and logs
 
-
 However if these are already available in existing repositories (e.g. [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/)) you should instead refer to them by DOI or URL under **Related Identifiers** further down.
 
 Remember to click the **Start Upload** button:
+
 ![Start Upload](assets/img/zenodo-09-start-upload.png)
 
 At any point you can click the **Save** button to store the draft (upload and metadata) under your [Zenodo uploads](https://zenodo.org/deposit).
+
 [![Save](assets/img/zenodo-10-save-then-publish.png)](assets/img/zenodo-10-save-then-publish.png)
 
 Now fill in **Publication Type** (Conference), **Title** and **Authors**.
 Leave _DOI_ blank. (After acceptance you may create a _New Version_ of this Zenodo record and provide the published DOI from the IEEE proceedings).
+
 [![zenodo-03-info](assets/img/zenodo-03-info.png)](assets/img/zenodo-03-info.png)
 
 If the submission is an article, provide the article's abstract as **Description**. (For academic abstracts you may leave this field blank or provide your own shorter abstract)
 
 Under **Additional Notes** make it clear that this is a Preprint. Suggested text is:
-Preprint submitted to RO2019 workshop at IEEE eScience Conference 2019
+> Preprint submitted to RO2019 workshop at IEEE eScience Conference 2019
 [![zenodo-04-notes-and-license](assets/img/zenodo-04-notes-and-license.png)](assets/img/zenodo-04-notes-and-license.png)
 
 If you prefer a different Open Access license for your preprint, select one here. Note that the IEEE eScience Conference proceedings are unfortunately not open access, which is why we rely on the Zenodo uploads to make your accepted work available.
@@ -191,11 +189,10 @@ You will need to confirm that your upload is final:
 Now your preprint is uploaded to Zenodo:
 [![zenodo-12-ready](assets/img/zenodo-12-ready.png)](assets/img/zenodo-12-ready.png)
 
-Copy the DOI or URL of the Zenodo Record, e.g. [https://sandbox.zenodo.org/record/214634](https://sandbox.zenodo.org/record/214634), as you will need it in the EasyChair submission for RO2019 peer review next.
+Copy the **DOI** or URL of the Zenodo Record, e.g. [https://sandbox.zenodo.org/record/214634](https://sandbox.zenodo.org/record/214634), as you will need it in the EasyChair submission for RO2019 peer review next.
 
 
 ### Submit for review in EasyChair
-
 
 After creating a Zenodo record (see above), you will need to submit it to RO2019 for review using [EasyChair](https://easychair.org/). You will need to [signup to EasyChair](https://easychair.org/account/signup.cgi) if you do not already have an account.
 
