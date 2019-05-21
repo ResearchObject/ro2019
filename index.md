@@ -15,7 +15,8 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 
 **News**:
 * [Call for Papers announced](cfp)
-* [Alternative submission by GitHub](submitting#alternative-submit-for-review-in-github)
+* [Abstract/article submissions open at EasyChair](https://easychair.org/conferences/?conf=ro2019)
+    * [..or GitHub](submitting#alternative-submit-for-review-in-github)
 
 ## Workshop Organisers
 
