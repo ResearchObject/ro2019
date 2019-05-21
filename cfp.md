@@ -52,7 +52,7 @@ Submitted abstracts and articles can be in a range of open formats (e.g. HTML,
 ePub) and are particularly encouraged to be submitted in a FAIR research data
 packing format.
 
-Accepted articles will be included in the IEEE eScience 2018
+Accepted articles will be included in the IEEE eScience 2019
 proceedings. Submitted preprints will, upon acceptance, be made available as
 Green Open Access on the RO2019 website with DOI links to the Zenodo record and
 (where applicable) the published IEEE proceeding article.
