@@ -1,8 +1,7 @@
 # Workshop on Research Objects 2019 (RO2019)
 {:.no_toc}
 
-_Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_
-<http://www.researchobject.org/ro2019/>
+_Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://www.researchobject.org/ro2019/>
 
 * **Location:** San Diego, CA, US
 * **Venue:** [IEEE eScience 2019](https://escience2019.sdsc.edu) (fees apply)
