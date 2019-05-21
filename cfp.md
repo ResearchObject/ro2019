@@ -1,21 +1,15 @@
-# Workshop on Research Objects (RO2018)
+# [CfP] Workshop on Research Objects (RO2019)
+_Call for Papers_
 
-2018-10-29 at IEEE eScience 2018, Amsterdam, The Netherlands
-<http://www.researchobject.org/ro2018/>
-
+2019-09-24 at IEEE eScience 2019, San Diego, CA, USA
+<http://www.researchobject.org/ro2019/>
 
 ## Timeline
 
-2018-07-01 Abstracts due
-
-2018-07-15 Research articles and software/data articles due
-
-2018-08-31 Notification of acceptance
-
-2018-08-31 IEEE eScience 2018 early-bird registration deadline
-
-2018-10-29 RO2018 workshop at IEEE eScience 2018
-
+* 2019-06-24 RO2019 submissions due
+* 2019-07-15 RO2019 Notification of acceptance
+* 2019-09-02 RO2019 poster/demo submissions due
+* 2019-09-24 RO2019 at IEEE eScience 2019
 
 ## Research Objects
 
@@ -36,14 +30,14 @@ between platforms and between researchers.
 
 ## Call for Papers
 
-In the workshop RO2018 we will explore recent advancements in Research Objects
+In the workshop RO2019 we will explore recent advancements in Research Objects
 and publishing of research data with peer-reviewed presentations, invited
 talks, short demos, lightning talks and break-out sessions to further build
 relationships across scientific domains and RO practitioners.
 
-RO2018 welcomes submissions of academic abstracts (1-2 pages), data/software
-articles (3-6 pages) and short research articles (4-8 pages) on cross-cutting
-case studies or specific research on topics including, but not limited to:
+RO2019 welcomes submissions of academic abstracts (~ 1-2 pages) and
+short research articles (~ 4-8 pages) on cross-cutting case studies or
+specific research on topics including, but not limited to:
 
   FAIR metrics; platforms, infrastructure and tools; lifecycles; access control
   and secure exchange; examples of exploitation and application; executable
@@ -58,26 +52,33 @@ Submitted abstracts and articles can be in a range of open formats (e.g. HTML,
 ePub) and are particularly encouraged to be submitted in a FAIR research data
 packing format.
 
-Accepted abstracts and articles will be included in the IEEE eScience 2018
+Accepted articles will be included in the IEEE eScience 2018
 proceedings. Submitted preprints will, upon acceptance, be made available as
-Green Open Access on the RO2018 website with DOI links to the Zenodo record and
-(eventually) the published IEEE proceeding article.
+Green Open Access on the RO2019 website with DOI links to the Zenodo record and
+(where applicable) the published IEEE proceeding article.
 
 It is a requirement that at least one author of each accepted submission
-attends the RO2018 workshop at the IEEE eScience 2018 conference, where
+attends the RO2019 workshop at the IEEE eScience 2019 conference, where
 registration fees applies.
 
 
 Further details on submitting:
-<http://www.researchobject.org/ro2018/submitting-to-ro2018/>
+<http://www.researchobject.org/ro2019/submitting>
 
 
-RO2018 encourages open peer review, and recommend that reviewers
+RO2019 encourages open peer review, and recommend that reviewers
 are named and attributed; however reviewers may be anonymous if so
 desired. Reviewers are welcome to publish their reviews using the
 same guidelines as the research articles.
 
+## Workshop organizers
+
+* Carole Goble (The University of Manchester, UK)
+* Raul Palma (Poznan Supercomputing and Networking Center, Poland)
+* Stian Soiland-Reyes (The University of Manchester, UK; Apache Software Foundation)
+* Daniel Garijo (University of Southern California, US)
 
 
-For any questions, email the RO2018 Workshop Organizers at
-ro2018@easychair.org
+For any questions, feel free to email the 
+RO2019 Workshop Organizers at 
+RO2019@easychair.org
