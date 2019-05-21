@@ -14,6 +14,9 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_
 1. Table of Contents
 {:toc}
 
+**News**:
+* [Call for Papers announced](cfp)
+* [Alternative submission by GitHub](submitting#alternative-submit-for-review-in-github)
 
 ## Workshop Organisers
 

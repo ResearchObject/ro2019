@@ -222,16 +222,16 @@ EasyChair should send you a confirmation email, and will send you more emails du
 
 ### Alternative: Submit for review in GitHub
 
-As an alternative to EasyChair, we also support submission of abstracts and article through GitHub. Submitting by GitHub means peer review will be done in public. If you prefer peer review to not open until acceptance, instead submit by EasyChair, as described above.
+As an alternative to EasyChair, this year we also support submission of abstracts and article through GitHub. Submitting by GitHub means peer review will be done in public from day 1. If you prefer peer review to not open until acceptance, instead submit by EasyChair, as described above.
 
 RO2019 GitHub submission procedure:
 
 1. Sign up to or log in at <https://github.com/>
 2. Create a new issue at <https://github.com/researchobject/ro2019/issues> - selecting the appropriate submission type
-3. For articles and longer abstracts, provide DOI for preprint uploaded at https://zenodo.org/deposit/new?c=ro
+3. For articles and longer abstracts, provide DOI for preprint uploaded at <https://zenodo.org/deposit/new?c=ro>
 4. For short abstracts and demo/poster submission you can instead provide the abstract in-line as text in the issue.
 5. Follow your issue to respond to peer-review as it happens (feel free to update the submission!)
-6. Browse https://github.com/ResearchObject/ro2019/issues/ - feel free to contribute ad-hoc reviews to other submissions!
+6. Browse <https://github.com/ResearchObject/ro2019/issues/> - feel free to contribute ad-hoc reviews to other submissions!
 
 _Upon acceptance we will upload any inline abstracts to Zenodo to assign DOIs, assuming CC-BY-4.0 as license._
 
