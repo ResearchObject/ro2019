@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 <!-- Provide the TITLE for your article ABOVE as the issue title 
-Note: Submitting by GitHub means peer review will be done in public. If you prefer peer review to not not open until acceptance, instead submit at https://easychair.org/conferences/?conf=ro2019  -->
+Note: Submitting by GitHub means peer review will be done in public. If you prefer peer review to not open until acceptance, instead submit at https://easychair.org/conferences/?conf=ro2019  -->
 
 
 ### Authors

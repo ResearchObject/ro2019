@@ -7,7 +7,6 @@ assignees: ''
 ---
 
 ### Activity type(s)
-
 <!-- delete as appropriate -->
 
 * lightning-talk
@@ -17,10 +16,8 @@ assignees: ''
 
 ### Activity
 <!-- Briefly describe the proposed unconference activity-->
-
 ..
 
 ### References
 <!-- Any related URL (s), e.g.  project home page -->
-
 * http://example.com/
