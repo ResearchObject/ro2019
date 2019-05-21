@@ -24,9 +24,13 @@ RO2019 welcome submissions for:
 
 The page limits are for guidance only, assuming reasonable font sizes and margins.
 
-Workshop participants are also encouraged to separately propose _lighting talks_, _breakout sessions_ and ideas for discussion points for the _unconference_ session of the workshop.
+See the [Call for Papers](cfp) for details on topics covered at the workshop.
 
 For any questions, email the RO2019 Workshop Organizers at [ro2019@easychair.org](mailto:ro2019@easychair.org)
+
+### Unconference
+
+Workshop participants are also encouraged to separately propose _lighting talks_, _breakout sessions_ and ideas for discussion points for the _unconference_ session of the workshop. To suggest an unconference activity, please [raise an issue](https://github.com/ResearchObject/ro2019/issues) in GitHub.
 
 ## Requirements
 
@@ -70,7 +74,7 @@ Below are detailed instructions on how we recommend submitting your work to RO20
 	
 * Author abstract/article
 * Upload to Zenodo	
-* Submit for review in Easychair
+* Submit for review in Easychair (or GitHub)
 * Update in Zenodo
 
 ### Authoring
@@ -215,6 +219,21 @@ Finally **submit** your contribution for consideration:
 
 EasyChair should send you a confirmation email, and will send you more emails during the review process.
 
+
+### Alternative: Submit for review in GitHub
+
+As an alternative to EasyChair, we also support submission of abstracts and article through GitHub. Submitting by GitHub means peer review will be done in public. If you prefer peer review to not open until acceptance, instead submit by EasyChair, as described above.
+
+RO2019 GitHub submission procedure:
+
+1. Sign up to or log in at <https://github.com/>
+2. Create a new issue at <https://github.com/researchobject/ro2019/issues> - selecting the appropriate submission type
+3. For articles and longer abstracts, provide DOI for preprint uploaded at https://zenodo.org/deposit/new?c=ro
+4. For short abstracts and demo/poster submission you can instead provide the abstract in-line as text in the issue.
+5. Follow your issue to respond to peer-review as it happens (feel free to update the submission!)
+6. Browse https://github.com/ResearchObject/ro2019/issues/ - feel free to contribute ad-hoc reviews to other submissions!
+
+_Upon acceptance we will upload any inline abstracts to Zenodo to assign DOIs, assuming CC-BY-4.0 as license._
 
 ## Update Zenodo
 
