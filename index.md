@@ -128,6 +128,11 @@ Daniel has participated in [standardization efforts](http://www.w3.org/TR/prov-o
 
 ## Program Committee
 
+This is the PC we have invited, will include on website upon acceptance
+
+Accepted:
+
+*   Eoghan Ó Carragáin (Univ College Cork, Ireland)
 *   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
 *   David De Roure (University of Oxford and Alan Turing Institute, UK)
 *   José Manuel Gómez Pérez (expertsystem.com, Spain)
@@ -138,4 +143,5 @@ Daniel has participated in [standardization efforts](http://www.w3.org/TR/prov-o
 *   James Myers (SEAD project, University of Michigan, USA)
 *   Denis Parfenov (open knowledge, Ireland)
 *   Peter Sefton (University of Technology Sydney, Australia)
-*   Eoghan Ó Carragáin (Univ College Cork, Ireland)
+*   Anita de Waard (Elsevier)
+
