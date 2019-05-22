@@ -128,5 +128,14 @@ Daniel has participated in [standardization efforts](http://www.w3.org/TR/prov-o
 
 ## Program Committee
 
-_**Note:** PC Pending Confirmation. It will be published upon acceptance of PC members_
-
+*   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
+*   David De Roure (University of Oxford and Alan Turing Institute, UK)
+*   José Manuel Gómez Pérez (expertsystem.com, Spain)
+*   Farah Zaib Khan (The University of Melbourne, Australia)
+*   Dimitris Koureas (Naturalis, NL)
+*   Paolo Manghi (Open AIRE and CNR, Pisa Italy)
+*   Raja Mazumder (BioComputeObjects, George Washington University, USA)
+*   James Myers (SEAD project, University of Michigan, USA)
+*   Denis Parfenov (open knowledge, Ireland)
+*   Peter Sefton (University of Technology Sydney, Australia)
+*   Eoghan Ó Carragáin (Univ College Cork, Ireland)
