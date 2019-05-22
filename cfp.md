@@ -1,6 +1,7 @@
 # [CfP] Workshop on Research Objects (RO2019)
 _Call for Papers_
 
+Workshop on Research Objects (RO2019)
 2019-09-24 at IEEE eScience 2019, San Diego, CA, USA
 <http://www.researchobject.org/ro2019/>
 
