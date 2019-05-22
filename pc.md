@@ -1,6 +1,7 @@
 This is the PC we have invited, will include on website upon acceptance
 
 Accepted:
+*   Eoghan Ó Carragáin (Univ College Cork, Ireland)
 *   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
 *   David De Roure (University of Oxford and Alan Turing Institute, UK)
 *   José Manuel Gómez Pérez (expertsystem.com, Spain)
@@ -11,14 +12,13 @@ Accepted:
 *   James Myers (SEAD project, University of Michigan, USA)
 *   Denis Parfenov (open knowledge, Ireland)
 *   Peter Sefton (University of Technology Sydney, Australia)
-*   Eoghan Ó Carragáin (Univ College Cork, Ireland)
+*   Anita de Waard (Elsevier)
 
 
 Not yet accepted:
 
 *   Ian Foster (The University of Chicago, USA)
 *   Kristian Garza (DataCite)
-*   Anita de Waard (Elsevier)
 *   Gareth Harvey (Mendeley Data)
 *   Naomi Penfold (eLife)
 *   Ronald Siebes (DANS, NL)
