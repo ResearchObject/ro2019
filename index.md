@@ -128,11 +128,8 @@ Daniel has participated in [standardization efforts](http://www.w3.org/TR/prov-o
 
 ## Program Committee
 
-This is the PC we have invited, will include on website upon acceptance
-
-Accepted:
-
 *   Eoghan Ó Carragáin (Univ College Cork, Ireland)
+*   Frederik Coppens (VIB, Belgium)
 *   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
 *   David De Roure (University of Oxford and Alan Turing Institute, UK)
 *   José Manuel Gómez Pérez (expertsystem.com, Spain)
