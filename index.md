@@ -134,6 +134,7 @@ Daniel has participated in [standardization efforts](http://www.w3.org/TR/prov-o
 *   David De Roure (University of Oxford and Alan Turing Institute, UK)
 *   José Manuel Gómez Pérez (expertsystem.com, Spain)
 *   Farah Zaib Khan (The University of Melbourne, Australia)
+*   David Koop (University of Massachusetts Dartmouth, USA)
 *   Dimitris Koureas (Naturalis, NL)
 *   Paolo Manghi (Open AIRE and CNR, Pisa Italy)
 *   Raja Mazumder (BioComputeObjects, George Washington University, USA)
