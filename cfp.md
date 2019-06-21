@@ -39,9 +39,12 @@ and publishing of research data with peer-reviewed presentations, invited
 talks, short demos, lightning talks and break-out sessions to further build
 relationships across scientific domains and RO practitioners.
 
-RO2019 welcomes submissions of academic abstracts (~ 1-2 pages) and
-short research articles (~ 4-8 pages) on cross-cutting case studies or
-specific research on topics including, but not limited to:
+RO2019 welcomes submissions of:
+ - abstracts for oral communication (~ 1-2 pages)
+ - short research articles (~ 4-8 pages)
+ - poster and demo abstracts (~ 1-2 pages)
+
+on cross-cutting case studies or specific research on topics including, but not limited to:
 
   FAIR metrics; platforms, infrastructure and tools; lifecycles; access control
   and secure exchange; examples of exploitation and application; executable
