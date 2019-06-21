@@ -9,11 +9,11 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 * **Duration:** 1 day
 * **Previous workshop:** [RO2018](http://www.researchobject.org/ro2018/)
 
-
 1. Table of Contents
 {:toc}
 
 **News**:
+* [Submission deadlines extended](#Timeline)
 * [Call for Papers announced](cfp)
 * [Guide for submitting to RO2019](submitting)
 * [Abstract/article submissions open at EasyChair](https://easychair.org/conferences/?conf=ro2019)
@@ -71,11 +71,12 @@ Please see our [submission guide](submitting) for details, then either:
 
 ## Timeline
 
-* **2019-06-24** RO2019 submissions due
-* **2019-07-15** RO2019 Notification of acceptance
+* **2019-07-05** ~~2019-06-24~~ RO2019 submissions due: articles
+* **2019-07-15** ~~2019-06-24~~ RO2019 submissions due: abstracts for oral presentation 
+* **2019-07-25** ~~2019-07-15~~ RO2019 Notification of acceptance
 * **2019-07-15** Preliminary RO2019 Programme w/ keynote speakers
 * **2019-07-29** Camera-ready papers due for accepted articles
-* **2019-09-02** RO2019 poster/demo submissions due
+* **2019-09-02** RO2019 submissions due: poster/demo abstracts
 * **2019-09-09** RO2019 Programme finalized
 * **2019-09-24** RO2019 at IEEE eScience 2019
 
