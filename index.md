@@ -13,7 +13,7 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 {:toc}
 
 **News**:
-* [Submission deadlines extended](#Timeline)
+* [Submission deadlines extended](#timeline)
 * [Call for Papers announced](cfp)
 * [Guide for submitting to RO2019](submitting)
 * [Abstract/article submissions open at EasyChair](https://easychair.org/conferences/?conf=ro2019)
