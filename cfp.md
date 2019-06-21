@@ -7,7 +7,7 @@ Workshop on Research Objects (RO2019)
 
 ## Timeline
 
-Deadlines have been extended:
+Deadlines have been **extended**:
 
 * **2019-07-05** RO2019 submissions due: articles
 * **2019-07-15** RO2019 submissions due: abstracts for oral presentation 
