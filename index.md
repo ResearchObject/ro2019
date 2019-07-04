@@ -4,7 +4,7 @@
 _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://www.researchobject.org/ro2019/>
 
 * **Location:** San Diego, CA, US
-* **Venue:** [IEEE eScience 2019](https://escience2019.sdsc.edu) (fees apply)
+* **Venue:** [IEEE eScience 2019](https://escience2019.sdsc.edu) ([fees](https://escience2019.sdsc.edu/registration) apply)
 * **When:** Tuesday 24 September 2019 (2019-09-24)
 * **Duration:** 1 day
 * **Previous workshop:** [RO2018](http://www.researchobject.org/ro2018/)
@@ -71,7 +71,7 @@ Please see our [submission guide](submitting) for details, then either:
 
 ## Timeline
 
-* **2019-07-05** ~~2019-06-24~~ RO2019 submissions due: articles
+* **2019-07-05** ~~2019-06-24~~ RO2019 submissions due: articles & oral presentation
 * **2019-07-15** ~~2019-06-24~~ RO2019 submissions due: abstracts for oral presentation 
 * **2019-07-25** ~~2019-07-15~~ RO2019 Notification of acceptance
 * **2019-07-29** Preliminary RO2019 Programme w/ keynote speakers
@@ -79,6 +79,8 @@ Please see our [submission guide](submitting) for details, then either:
 * **2019-09-02** RO2019 submissions due: poster/demo abstracts
 * **2019-09-09** RO2019 Programme finalized
 * **2019-09-24** RO2019 at IEEE eScience 2019
+
+All accepted submitters will be requested to present at the workshop and register for [IEEE eScience 2019](https://escience2019.sdsc.edu/), where [fees](https://escience2019.sdsc.edu/registration) apply.
 
 ## Short bio of the organizers
 
