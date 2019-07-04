@@ -46,12 +46,23 @@ RO2019 welcomes submissions of:
 
 on cross-cutting case studies or specific research on topics including, but not limited to:
 
-  FAIR metrics; platforms, infrastructure and tools; lifecycles; access control
-  and secure exchange; examples of exploitation and application; executable
-  containers; metadata, packaging and formats; credit, attribution and peer
-  review; dealing with scale and distribution; driving adoption within current
-  scholarly communications and alignments with community efforts; and
-  domain-specific and cross-domain Research Objects.
+- reproducibility
+- scientific workflows
+- provenance
+- FAIR metrics
+- platforms, infrastructure and tools
+- research data lifecycles
+- access control and secure exchange
+- examples of exploitation and application
+- executable containers
+- metadata and annotations
+- data packaging and formats
+- credit, attribution and peer review
+- big data and distribution
+- scholarly communications
+- alignments with community efforts
+- domain-specific and cross-domain Research Objects.
+
 
 ## Submitting
 
