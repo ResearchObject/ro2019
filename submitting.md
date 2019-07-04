@@ -7,7 +7,7 @@ This page describes how authors could submit to the [Workshop on Research Object
 >
 > The Zenodo research object is submitted for review in [EasyChair](https://easychair.org/conferences/?conf=ro2019) or [GitHub](https://github.com/ResearchObject/ro2019/issues/new/choose)
 > 
-> Upon acceptance, the RO2019 proceedings link to Green Open Access preprints/ROs in Zenodo, and DOI to papers accepted for the IEEE eScience proceedings.
+> Upon acceptance, the RO2019 proceedings will link to Green Open Access preprints/ROs in Zenodo, and DOI to papers accepted for the IEEE eScience proceedings.
 
 * Table of Contents
 {:toc}
@@ -38,12 +38,12 @@ Unless indicated otherwise, the submitted preprint is assumed to be licensed [CC
 
 RO2019 may reformat your preprint for web publishing.
 
-It is a requirement that **at least one author** of each accepted submission attends the RO2019 workshop and **registers** using the [IEEE eScience 2019 system](https://escience2019.sdsc.edu/registration) (either for the workshop, or the whole conference). Registration fees applies.
+It is a requirement that **at least one author** of each accepted submission attends the RO2019 workshop and **registers** using the [IEEE eScience 2019 system](https://escience2019.sdsc.edu/registration) (either for the workshop, or the whole conference). Registration [fees](https://escience2019.sdsc.edu/registration) applies.
 
 
 ## Formats
 
-Submitted abstracts and articles can be in a range of **open formats** (e.g. [HTML5](https://www.w3.org/TR/html/), [ePub](https://www.w3.org/Submission/2017/SUBM-epub31-20170125/)) and are particularly encouraged to be submitted in a FAIR research data packing format. Guidance is provided below for those who do not have their own platform they wish to showcase.
+Submitted abstracts and articles can be in a range of **open formats** (e.g. [HTML5](https://www.w3.org/TR/html/), [ePub](https://www.w3.org/Submission/2017/SUBM-epub31-20170125/)) and are particularly encouraged to be submitted in a FAIR research data packing format. Guidance is provided below for those who do not have their own platform they wish to showcase. 
 
 Accepted articles will be included in the IEEE eScience 2019 proceedings; a secondary PDF, which may use the [IEEE templates](https://www.ieee.org/conferences/publishing/templates.html), **may** be included in the submission or provided later by the author to the IEEE submission system (camera-ready deadline for IEEE articles 29 July 2019).
 
