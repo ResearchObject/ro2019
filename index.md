@@ -72,7 +72,7 @@ Please see our [submission guide](submitting) for details, then either:
 ## Timeline
 
 * ~~2019-07-05 RO2019 submissions due: articles & oral presentation~~
-* ~~**2019-07-15** RO2019 submissions due: abstracts for oral presentation ~~
+* ~~2019-07-15 RO2019 submissions due: abstracts for oral presentation~~
 * **2019-07-25** ~~2019-07-15~~ RO2019 Notification of acceptance
 * **2019-07-29** Preliminary RO2019 Programme w/ keynote speakers
 * **2019-07-29** Camera-ready papers due for accepted articles
