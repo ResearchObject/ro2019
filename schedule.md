@@ -34,7 +34,7 @@ The conference [Gateways 2019](https://sciencegateways.org/web/gateways2019/) ru
 
 ## Accepted talks at RO2019
 
-See also the [list of accepted papers and abstacts](/ro2019/proceedings).
+See also the [list of accepted papers and abstracts](/ro2019/proceedings).
 
 * RO-1: Anita Bandrowski: [How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium](https://doi.org/10.5281/zenodo.3265460) (_10 mins_)
 * RO-2: Katrina Fenlon: [Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects](https://doi.org/10.5281/zenodo.3268809). (_15 mins_)
