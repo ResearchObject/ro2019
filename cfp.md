@@ -11,9 +11,12 @@ Deadlines have been **extended**:
 
 * ~~2019-07-05 RO2019 submissions due: articles~~
 * ~~2019-07-15 RO2019 submissions due: abstracts for oral presentation~~
-* **2019-07-25** RO2019 Notification of acceptance
+* ~~2019-07-27 RO2019 Notification of acceptance~~
+* **2019-08-05** Camera-ready papers due for accepted articles
 * **2019-09-02** RO2019 submissions due: poster/demo abstracts
 * **2019-09-24** RO2019 at IEEE eScience 2019
+
+
 
 ## Research Objects
 
