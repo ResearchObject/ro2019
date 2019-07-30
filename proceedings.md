@@ -8,7 +8,6 @@ RO2019 encouraged _open peer review_, and recommend that reviewers are named an
 ## News
 
 * Accepted contributions announced
-* All accepted contributions are Green Open Access
 
 
 ## Articles
@@ -22,25 +21,52 @@ Publications in the _IEEE eScience 2019 proceedings_ are not Open Access. To enc
 To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_
 Preprint: [https://doi.org/10.5281/zenodo.3268809](https://doi.org/10.5281/zenodo.3268809)
 
-* Craig Willis: **Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses**
-* Timothy McPhillips and Bertram Ludaescher: **Reproducibility by Other Means: Transparent Research Objects**
-* Imran Asif, Jessica Chen-Burger and Alasdair J G Gray: **Data Quality Issues in Current Nanopublications**
+[Kyle Chard](https://orcid.org/0000-0002-7370-4805),
+[Niall Gaffney](https://orcid.org/0000-0002-3668-9853),
+[Matthew B. Jones](https://orcid.org/0000-0003-0077-4738),
+[Kacper Kowalik](https://orcid.org/0000-0003-1709-3744),
+[Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X),
+[Jarek Nabrzyski](https://orcid.org/0000-0002-3985-3620),
+[Victoria Stodden](https://orcid.org/0000-0003-2015-7825),
+[Ian Taylor](https://orcid.org/0000-0002-8904-9630),
+Thomas Thelen,
+[Matthew J. Turk](https://orcid.org/0000-0002-5294-0198),
+[Craig Willis](https://orcid.org/0000-0002-6148-7196) (2019):
+**Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses**.
+To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_
+Preprint: [https://doi.org/10.5281/zenodo.3271763](https://doi.org/10.5281/zenodo.3271763)
+[[WholeTale BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)
 
-_TODO: Add DOIs to preprints_
+[Timothy McPhillips](https://orcid.org/xx), [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):
+**Reproducibility by Other Means: Transparent Research Objects**.
+To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_
+Preprint: [https://doi.org/10.5281/zenodo.3270620](https://doi.org/10.5281/zenodo.3270620)
+
+[Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):
+**Data Quality Issues in Current Nanopublications**.
+To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_
+Preprint: [https://doi.org/10.5281/zenodo.3268904](https://doi.org/10.5281/zenodo.3268904)
+
 
 ## Accepted for talks
 
 _These abstracts have been accepted for [talks](/ro2019/schedule/) at RO2019:_
 
 
+[xx](https://orcid.org/xx) (2019):
+**xx**.
+To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_
+Preprint: [xx](xx)
+
+
 * Anita Bandrowski, et al: **How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium
-* Isabelle Perseil and Petr Holub: **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**
+* Isabelle Perseil, Petr Holub: **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**
 * Frederik Coppens: **The Data Life Cycle in Practice: an Infrastructure Point of View**
 * David Kennedy: **The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings**
-* Jackson Brown and Nicholas Weber: **DSDB: Reproducible Computational Modeling**
-* Kyle Chard:	**Big Data Bags: A Scalable Packaging Format for Science**
-* Anita de Waard and Marina Soares E Silva: **Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**
-* Rosa Filgueira:	**DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment**
+* Jackson Brown,  Nicholas Weber: **DSDB: Reproducible Computational Modeling**
+* Kyle Chard:**Big Data Bags: A Scalable Packaging Format for Science**
+* Anita de Waard,  Marina Soares E Silva: **Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**
+* Rosa Filgueira: **DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment**
 
 _TODO: Add DOIs to preprints_
 
