@@ -17,10 +17,13 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 
 * [IEEE eScience Early-Bird registration deadline extended](https://escience2019.sdsc.edu/registration)  _5 aug 2019_
 * [Preliminary RO2019 schedule announced](schedule)
-* [Suggest an unconference activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
-* [Submit a poster/demo](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=)
 * [Guide for submitting to RO2019](submitting)
-* ~~[Call for Papers](cfp)~~
+    * [Submit a poster/demo](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) using GitHub _2 Sep 2019_
+    * ..or using [EasyChair](https://easychair.org/conferences/?conf=ro2019)
+    * ~~[Abstract/article submissions at EasyChair](https://easychair.org/conferences/?conf=ro2019) ..or [GitHub](submitting#alternative-submit-for-review-in-github)~~
+    * ~~[Call for Papers](cfp)~~
+* [Suggest an unconference activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
+
 
 
 ## Workshop Organisers
@@ -64,7 +67,7 @@ This workshop aims for a mix of presentation sessions and "unconferencing" sessi
 
 ## Submit
 
-Submissions are welcome for **Short articles** (about 4-8 pages), **Abstracts** for oral communication (1-2 pages) and **Poster and demo abstracts** (1-2 pages)
+Submissions are welcome for ~~**Short articles** (about 4-8 pages), **Abstracts** for oral communication (1-2 pages) and~~ **Poster and demo abstracts** (1-2 pages)
 
 RO2019 encourages _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired.
 
@@ -84,7 +87,7 @@ Please see our [submission guide](submitting) for details, then either:
 * **2019-09-09** RO2019 Programme finalized
 * **2019-09-24** RO2019 at IEEE eScience 2019
 
-All accepted submitters will be requested to present at the workshop and register for [IEEE eScience 2019](https://escience2019.sdsc.edu/), where [fees](https://escience2019.sdsc.edu/registration) apply (**Early bird** discount available until 5 August).
+All accepted submitters will be requested to _present_ at the workshop and _register_ for [IEEE eScience 2019](https://escience2019.sdsc.edu/), where [fees](https://escience2019.sdsc.edu/registration) apply (**Early bird** discount available until 5 August).
 
 ## Short bio of the organizers
 
@@ -110,7 +113,7 @@ Currently, Raul is leading PSNC activities in [EVER-EST](http://ever-est.eu/) pr
 [https://orcid.org/0000-0003-4289-4922](https://orcid.org/0000-0003-4289-4922) 
 
 
-#### Stian Soiland-Reyes (The University of Manchester, UK; Apache Software Foundation) 
+#### Stian Soiland-Reyes (The University of Manchester, UK; University of Amsterdam, NL; Apache Software Foundation) 
 {:.no_toc}
 
 Stian Soiland-Reyes is a senior Research Software Engineer, working at the [eScience Lab](http://www.esciencelab.org.uk/) in the University of Manchester since 2006. His research and development interests are in reproducible Open Science by applying semantic technologies and distributed computing. He is a persistent advocate of Open Access, data sharing and improving practices of academic publishing. As a keen open source developer and Foundation Member of [Apache Software Foundation](https://www.apache.org/), he has a key role in development of the workflow system [Apache Taverna](http://taverna.incubator.apache.org/) (incubating) and [Common Workflow Language](http://orcid.org/) (he is on the CWL leadership team), as well as contributing to Linked Data initiatives such as [Commons RDF](https://commons.apache.org/proper/commons-rdf/), Jena and JSON-LD. 
@@ -134,7 +137,7 @@ Daniel has participated in [standardization efforts](http://www.w3.org/TR/prov-o
 
 ## Program Committee
 
-*   Eoghan Ó Carragáin (Univ College Cork, Ireland)
+*   Eoghan Ó Carragáin (University College Cork, Ireland)
 *   Frederik Coppens (VIB, Belgium)
 *   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
 *   David De Roure (University of Oxford and Alan Turing Institute, UK)
