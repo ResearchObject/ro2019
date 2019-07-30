@@ -12,12 +12,16 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 1. Table of Contents
 {:toc}
 
-**News**:
-* [Submission deadlines extended](#timeline)
-* [Call for Papers announced](cfp)
+### News
+{:.no_toc}
+
+* [IEEE eScience Early-Bird registration deadline extended](https://escience2019.sdsc.edu/registration)  _5 aug 2019_
+* [Preliminary RO2019 schedule announced](schedule)
+* [Suggest an unconference activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
+* [Submit a poster/demo](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=)
 * [Guide for submitting to RO2019](submitting)
-* [Abstract/article submissions open at EasyChair](https://easychair.org/conferences/?conf=ro2019)
-    * [..or GitHub](submitting#alternative-submit-for-review-in-github)
+* ~~[Call for Papers](cfp)~~
+
 
 ## Workshop Organisers
 
