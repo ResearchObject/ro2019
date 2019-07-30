@@ -47,4 +47,4 @@ The schedule has not yet been settled. A rough overview is:
 
 RO2019 is on the first [workshop day of eScience 2019](https://escience2019.sdsc.edu/workshops). See the [eScience 2019 programme](https://escience2019.sdsc.edu/program) for the full schedule of eScience for the rest of the week.
 
-The conference [Gateways 2019](https://sciencegateways.org/web/gateways2019/) runs in parallel at the same venue, which include [tutorials](https://sciencegateways.org/web/gateways2019/program/schedule) on Monday 23 Sept 2019. Additional registration fees apply to attend both conferences.
+The conference [Gateways 2019](https://sciencegateways.org/web/gateways2019/) runs in parallel at the same venue, which include [tutorials](https://sciencegateways.org/web/gateways2019/program/schedule) on Monday 23 Sept 2019. Additional registration fees apply to attend the Gateways tutorial.
