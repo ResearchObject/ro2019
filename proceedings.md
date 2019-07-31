@@ -3,7 +3,7 @@
 
 The below articles and abstracts were reviewed to be accepted for [RO2019](/ro2019/) following the [call for contributions](ro2019/cfp). <!-- See also the [schedule](/ro2019/schedule/) for the corresponding talks. -->
 
-RO2019 encouraged _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. Reviews will be added to this page later.
+RO2019 encouraged [open peer review](reviews/), and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. Reviews are being transcribed to be added to this page progressively.
 
 ## News
 
