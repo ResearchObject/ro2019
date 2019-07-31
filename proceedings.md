@@ -20,6 +20,7 @@ _Research papers were accepted for [talks](/ro2019/schedule/) at RO2019 and will
 **Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects**.  
 To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3268809](https://doi.org/10.5281/zenodo.3268809)
+[[peer reviews](/ro2019/reviews/2)]
 
 [Kyle Chard](https://orcid.org/0000-0002-7370-4805),
 [Niall Gaffney](https://orcid.org/0000-0002-3668-9853),
@@ -107,8 +108,8 @@ _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._
 [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525) (2019):  
 **Citation and Research Objects: Toward Active Research Objects**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-[https://doi.org/10.5281/zenodo.3338176xx](https://doi.org/10.5281/zenodo.3338176)
-[[peer reviews](https://github.com/researchobject/ro2019/issues/2)]
+[https://doi.org/10.5281/zenodo.3338176](https://doi.org/10.5281/zenodo.3338176)
+[[peer reviews](/ro2019/reviews/14)]
 
 [Eoghan Ó Carragáin](https://orcid.org/0000-0001-8131-2150),
 [Carole Goble](https://orcid.org/0000-0001-9842-9718),
@@ -117,7 +118,7 @@ _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._
 **RO-Crate, a lightweight approach to Research Object data packaging**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3337883](https://doi.org/10.5281/zenodo.3337883)
-[[peer reviews](https://github.com/researchobject/ro2019/issues/3)]
+[[peer reviews](/ro2019/reviews/15)]
 
 
 ## Accepted for poster/demo
