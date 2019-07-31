@@ -35,9 +35,9 @@ Thomas Thelen,
 **Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses**.  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3271763](https://doi.org/10.5281/zenodo.3271763)
-[[WholeTale BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)
+[[BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)]
 
-[Timothy McPhillips](https://orcid.org/xx), [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):  
+Timothy McPhillips, [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):  
 **Reproducibility by Other Means: Transparent Research Objects**.  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3270620](https://doi.org/10.5281/zenodo.3270620)
@@ -92,23 +92,32 @@ no preprint available
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 no preprint available
 
-[Kristi Holmes](https://orcid.org/xx) (2019):  
+[Kristi Holmes](https://orcid.org/0000-0001-8420-5254),
+[Nicole Vasilevsky](https://orcid.org/0000-0001-5208-3432),
+[Marijane White](https://orcid.org/0000-0001-5059-4132),
+[Matthew Brush](https://orcid.org/0000-0002-1048-5019),
+[Lisa O’Keefe](https://orcid.org/0000-0003-1211-7583),
+[Karen Gutzman](https://orcid.org/0000-0001-6331-4451),
+[Melissa Haendel](https://orcid.org/0000-0001-9114-8737) (2019):  
 **Architecting Attribution: expanding the scope of academic credit**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3334688](https://doi.org/10.5281/zenodo.3334688)
+[[peer reviews](https://github.com/researchobject/ro2019/issues/1)]
 
-
-[Daniel Katz](https://orcid.org/xx) (2019):  
+[Daniel S. Katz](http://orcid.org/0000-0001-5934-7525) (2019):  
 **Citation and Research Objects: Toward Active Research Objects**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3338176xx](https://doi.org/10.5281/zenodo.3338176)
+[[peer reviews](https://github.com/researchobject/ro2019/issues/2)]
 
-
-[Stian Soiland-Reyes](https://orcid.org/xx) (2019):  
+[Eoghan Ó Carragáin](https://orcid.org/0000-0001-8131-2150),
+[Carole Goble](https://orcid.org/0000-0001-9842-9718),
+[Peter Sefton](https://orcid.org/0000-0002-3545-944X),
+[Stian Soiland-Reyes](https://orcid.org/0000-0001-9842-9718) (2019): 
 **RO-Crate, a lightweight approach to Research Object data packaging**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3337883](https://doi.org/10.5281/zenodo.3337883)
-
+[[peer reviews](https://github.com/researchobject/ro2019/issues/3)]
 
 
 ## Accepted for poster/demo
