@@ -55,7 +55,7 @@ _These abstracts have been accepted for [talks](/ro2019/schedule/) at RO2019:_
 [Anita Bandrowski](https://orcid.org/0000-0002-5497-0243) (2019):  
 **How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-[https://doi.org/10.5281/zenodo.3265460](https://doi.org/10.5281/zenodo.3265460)
+[https://doi.org/10.5281/zenodo.3265460](https://doi.org/10.5281/zenodo.3265460) [[reviews](/ro2019/reviews/1)]
 
 Isabelle Perseil, Petr Holub (2019):  
 **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**.  
@@ -102,7 +102,7 @@ no preprint available
 **Architecting Attribution: expanding the scope of academic credit**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3334688](https://doi.org/10.5281/zenodo.3334688)
-[[peer reviews](https://github.com/researchobject/ro2019/issues/1)]
+[[peer reviews](/ro2019/reviews/13)]
 
 [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525) (2019):  
 **Citation and Research Objects: Toward Active Research Objects**.  
