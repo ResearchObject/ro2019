@@ -1,4 +1,4 @@
-# Peer reviews
+# Open Peer Reviews
 
 RO2019 encourages _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. 
 
