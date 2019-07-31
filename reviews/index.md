@@ -8,7 +8,7 @@ _**Note:** The list of peer reviews is currently under construction, as reviews 
 
 
 ## Articles
-* RO-2: _TODO_
+* [RO-2](2): Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects
 * RO-3: _TODO_
 * RO-5: _TODO_
 * RO-6: _TODO_
@@ -24,8 +24,8 @@ _**Note:** The list of peer reviews is currently under construction, as reviews 
 * RO-11: _TODO_
 * RO-12: _TODO_
 * [RO-13](13): Architecting Attribution: expanding the scope of academic credit
-* [RO-14](https://github.com/researchobject/ro2019/issues/2): Citation and Research Objects: Toward Active Research Objects
-* [RO-15](https://github.com/researchobject/ro2019/issues/3): RO-Crate, a lightweight approach to Research Object data packaging
+* [RO-14](14): Citation and Research Objects: Toward Active Research Objects
+* [RO-15](15): RO-Crate, a lightweight approach to Research Object data packaging
 
 ## Posters
 
@@ -70,17 +70,17 @@ After the extended deadline, each submission was assigned to 2 members of the [R
 
 The decision per submission was done by silent consensus by individual chairs where reviews where consistent. One submission was discussed further and authors requested to revise before acceptance.
 
-*   Carole Goble (The University of Manchester, UK)
-*   Raul Palma (Poznan Supercomputing and Networking Center, Poland)
-*   Stian Soiland-Reyes (The University of Manchester, UK)
-*   Daniel Garijo (University of Southern California, US)
-*   Eoghan Ó Carragáin (University College Cork, Ireland)
-*   Frederik Coppens (VIB, Belgium)
-*   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
-*   David De Roure (University of Oxford and Alan Turing Institute, UK)
-*   José Manuel Gómez Pérez (expertsystem.com, Spain)
-*   David Koop (University of Massachusetts Dartmouth, USA)
-*   Raja Mazumder (BioComputeObjects, George Washington University, USA)
-*   James Myers (SEAD project, University of Michigan, USA)
-*   Denis Parfenov (open knowledge, Ireland)
-*   Peter Sefton (University of Technology Sydney, Australia)
+*   Carole Goble <https://orcid.org/0000-0003-1219-2137>
+*   Raul Palma <https://orcid.org/0000-0003-4289-4922>
+*   Stian Soiland-Reyes <https://orcid.org/0000-0001-9842-9718>
+*   Daniel Garijo <https://orcid.org/0000-0003-0454-7145>
+*   Eoghan Ó Carragáin <https://orcid.org/0000-0001-8131-2150>
+*   Frederik Coppens <https://orcid.org/0000-0001-6565-5145>
+*   Oscar Corcho <https://orcid.org/0000-0002-9260-0753>
+*   David De Roure <https://orcid.org/0000-0001-9074-3016>
+*   José Manuel Gómez Pérez <https://orcid.org/0000-0002-5491-6431>
+*   David Koop <https://orcid.org/0000-0002-4422-6162>
+*   Raja Mazumder <https://orcid.org/0000-0001-8823-9945>
+*   James Myers <https://orcid.org/0000-0001-8462-650X>
+*   Denis Parfenov <https://keybase.io/prfnv>
+*   Peter Sefton <https://orcid.org/0000-0002-3545-944X>
