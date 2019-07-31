@@ -52,42 +52,42 @@ Preprint: [https://doi.org/10.5281/zenodo.3268904](https://doi.org/10.5281/zenod
 
 _These abstracts have been accepted for [talks](/ro2019/schedule/) at RO2019:_
 
-[Anita Bandrowski](https://orcid.org/xx) (2019):  
+[Anita Bandrowski](https://orcid.org/0000-0002-5497-0243) (2019):  
 **How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3265460](https://doi.org/10.5281/zenodo.3265460)
 
-[Isabelle Perseil](https://orcid.org/xx), Petr Holub (2019):  
+Isabelle Perseil, Petr Holub (2019):  
 **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 (no preprint available)
 
-[Frederik Coppens](https://orcid.org/xx) (2019):  
+[Frederik Coppens](https://orcid.org/0000-0001-6565-5145) (2019):  
 **The Data Life Cycle in Practice: an Infrastructure Point of View**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3270824](https://doi.org/10.5281/zenodo.3270824)
 
-[David Kennedy](https://orcid.org/xx) (2019):  
+[David N. Kennedy](https://orcid.org/0000-0002-9377-0797) (2019):  
 **The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3336609](https://doi.org/10.5281/zenodo.3336609)
 
-[Jackson Brown](https://orcid.org/xx) (2019):  
+Jackson Brown, Nicolas Weber (2019):  
 **DSDB: Reproducible Computational Modeling**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3337375](https://doi.org/10.5281/zenodo.3337375)
 
-[Kyle Chard](https://orcid.org/xx) (2019):  
+[Mike D'Arcy](https://orcid.org/0000-0003-2280-917X), [Kyle Chard](https://orcid.org/0000-0002-7370-4805), [Ian Foster](https://orcid.org/0000-0003-2129-5269), [Carl Kesselman](https://orcid.org/0000-0003-0917-1562), [Ravi Madduri](https://orcid.org/0000-0003-2130-2887), Nickolaus Saint, [Rick Wagner](https://orcid.org/0000-0003-1291-5876) (2019):  
 **Big Data Bags: A Scalable Packaging Format for Science**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3338725](https://doi.org/10.5281/zenodo.3338725)
 
-[Anita de Waard](https://orcid.org/xx) (2019):  
+[Anita de Waard](https://orcid.org/0000-0002-9034-4119), [Marina Soares E Silva](https://orcid.org/0000-0001-9530-627X) (2019):  
 **Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 no preprint available
 
-[Rosa Filgueira](https://orcid.org/xx) (2019):  
+[Rosa Filgueira](http://orcid.org/0000-0002-5715-3046) (2019):  
 **DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 no preprint available
