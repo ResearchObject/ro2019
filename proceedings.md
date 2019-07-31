@@ -61,12 +61,12 @@ _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._
 Isabelle Perseil, [Petr Holub](https://orcid.org/0000-0002-5358-616X) (2019):  
 **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-(no preprint available)
+(no preprint available) [[peer review](/ro2019/reviews/4)]
 
 [Frederik Coppens](https://orcid.org/0000-0001-6565-5145) (2019):  
 **The Data Life Cycle in Practice: an Infrastructure Point of View**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-[https://doi.org/10.5281/zenodo.3270824](https://doi.org/10.5281/zenodo.3270824)
+[https://doi.org/10.5281/zenodo.3270824](https://doi.org/10.5281/zenodo.3270824) [[peer review](/ro2019/reviews/7)]
 
 [David N. Kennedy](https://orcid.org/0000-0002-9377-0797) (2019):  
 **The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings**.  

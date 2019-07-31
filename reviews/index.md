@@ -16,8 +16,8 @@ _**Note:** The list of peer reviews is currently under construction, as reviews 
 ## Abstracts
 
 * [RO-1](1): How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium
-* RO-4: _TODO_
-* RO-7: _TODO_
+* [RO-4](4): Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines
+* [RO-7](7): The Data Life Cycle in Practice: an Infrastructure Point of View
 * RO-8: _TODO_
 * RO-9: _TODO_
 * RO-10: _TODO_
