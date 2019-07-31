@@ -20,7 +20,7 @@ _Research papers were accepted for [talks](/ro2019/schedule/) at RO2019 and will
 **Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects**.  
 To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3268809](https://doi.org/10.5281/zenodo.3268809)
-[[peer reviews](/ro2019/reviews/2)]
+[[peer review](/ro2019/reviews/2)]
 
 [Kyle Chard](https://orcid.org/0000-0002-7370-4805),
 [Niall Gaffney](https://orcid.org/0000-0002-3668-9853),
@@ -36,12 +36,12 @@ Thomas Thelen,
 **Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses**.  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3271763](https://doi.org/10.5281/zenodo.3271763)
-[[BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)]
+[[BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)] [[peer review](/ro2019/reviews/5)]
 
 Timothy McPhillips, [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):  
 **Reproducibility by Other Means: Transparent Research Objects**.  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
-Preprint: [https://doi.org/10.5281/zenodo.3270620](https://doi.org/10.5281/zenodo.3270620)
+Preprint: [https://doi.org/10.5281/zenodo.3270620](https://doi.org/10.5281/zenodo.3270620) [[peer review](/ro2019/reviews/6)]
 
 [Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):  
 **Data Quality Issues in Current Nanopublications**.  
@@ -56,7 +56,7 @@ _These abstracts have been accepted for [talks](/ro2019/schedule/) at RO2019:_
 [Anita Bandrowski](https://orcid.org/0000-0002-5497-0243) (2019):  
 **How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-[https://doi.org/10.5281/zenodo.3265460](https://doi.org/10.5281/zenodo.3265460) [[reviews](/ro2019/reviews/1)]
+[https://doi.org/10.5281/zenodo.3265460](https://doi.org/10.5281/zenodo.3265460) [[peer review](/ro2019/reviews/1)]
 
 Isabelle Perseil, [Petr Holub](https://orcid.org/0000-0002-5358-616X) (2019):  
 **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**.  
@@ -103,13 +103,13 @@ no preprint available
 **Architecting Attribution: expanding the scope of academic credit**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3334688](https://doi.org/10.5281/zenodo.3334688)
-[[peer reviews](/ro2019/reviews/13)]
+[[peer review](/ro2019/reviews/13)]
 
 [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525) (2019):  
 **Citation and Research Objects: Toward Active Research Objects**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3338176](https://doi.org/10.5281/zenodo.3338176)
-[[peer reviews](/ro2019/reviews/14)]
+[[peer review](/ro2019/reviews/14)]
 
 [Eoghan Ó Carragáin](https://orcid.org/0000-0001-8131-2150),
 [Carole Goble](https://orcid.org/0000-0001-9842-9718),
@@ -118,7 +118,7 @@ _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._
 **RO-Crate, a lightweight approach to Research Object data packaging**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3337883](https://doi.org/10.5281/zenodo.3337883)
-[[peer reviews](/ro2019/reviews/15)]
+[[peer review](/ro2019/reviews/15)]
 
 
 ## Accepted for poster/demo

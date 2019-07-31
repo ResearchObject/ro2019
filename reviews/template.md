@@ -30,12 +30,13 @@ _URL for a Research Object or Zenodo record provided?
    Some form of Data Package provided?
    Add text below if you need to clarify your score._
 
+
 (delete as appropriate)
-* none (e.g. only abstract in easychair/github)
-* basic (e.g. Zenodo with PDF and minimal metadata)
-* sufficient (e.g. HTML, detailed Zenodo metadata)
-* good (followed guidelines, demonstrating own format, related resources included, but some details missing)
-* excellent (e.g. followed all guidelines, complete metadata or RO-like research data package, linked data, provenance)
+* none (_e.g. only abstract in easychair/github_)
+* basic (_e.g. Zenodo with PDF and minimal metadata_)
+* sufficient (_e.g. HTML, detailed Zenodo metadata_)
+* good (_followed guidelines, demonstrating own format, related resources included, but some details missing_)
+* excellent (_e.g. followed all guidelines, complete metadata or RO-like research data package, linked data, provenance_)
 
 ### Overall evaluation
 _Please provide a brief review, including a justification for your scores. 
