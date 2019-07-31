@@ -45,7 +45,7 @@ Preprint: [https://doi.org/10.5281/zenodo.3270620](https://doi.org/10.5281/zenod
 
 [Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):  
 **Data Quality Issues in Current Nanopublications**.  
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_ 
+_(awaiting revised manuscript)_  
 Preprint: [https://doi.org/10.5281/zenodo.3268904](https://doi.org/10.5281/zenodo.3268904)
 
 
