@@ -36,19 +36,19 @@ _Pending deadline_
 
 The [Call for Papers](https://researchobject.github.io/ro2019/cfp) was announced through EasyChair, Twitter, organizational and project websites, multiple mailing lists and newsletters, at related workshop presentations, in the [RO-Crate](https://researchobject.github.io/ro-crate/) calls and to the [RO2019 Programme Committee](/ro2019/#program-committee).
 
-Announcements where sent out roughly at:
+Announcements were sent out roughly at:
 
 * 2019-05-25 ("first call")
 * 2019-06-07 ("second call")
 * 2019-06-21 ("extended deadline")
 * 2019-07-04 ("final call")
 
-Existing contacts in projects, [eScience 2019 organizers](https://escience2019.sdsc.edu/organizers) and [eScience 2019 programme committee](https://escience2019.sdsc.edu/pc) where approached personally and invited to submit for peer review.
+Existing contacts in projects, [eScience 2019 organizers](https://escience2019.sdsc.edu/organizers) and [eScience 2019 programme committee](https://escience2019.sdsc.edu/pc) were approached personally and invited to submit for peer review.
 
 
 ## Submissions
 
-Submissions where received through [EasyChair](https://easychair.org/conferences/?conf=ro2019) or [GitHub](https://github.com/ResearchObject/ro2019/issues).
+Submissions were received through [EasyChair](https://easychair.org/conferences/?conf=ro2019) or [GitHub](https://github.com/ResearchObject/ro2019/issues).
 
 Received submissions:
 
@@ -56,10 +56,10 @@ Received submissions:
 * 8 EasyChair abstracts
 * 3 GitHub abstracts
 
-In the [submission guide](/ro2019/submitting), authors where requested to deposit their abstract or article to the [Zenodo ResearchObject community](https://zenodo.org/communities/ro) and only include the DOI/URL to Zenodo in the EasyChair/GitHub submission.
+In the [submission guide](/ro2019/submitting), authors were requested to deposit their abstract or article to the [Zenodo ResearchObject community](https://zenodo.org/communities/ro) and only include the DOI/URL to Zenodo in the EasyChair/GitHub submission.
 
 * 12 submissions had Zenodo preprint link/DOI
-* ..of which 9 submissions where added to the RO Community in Zenodo
+* ..of which 9 submissions were added to the RO Community in Zenodo
 * 2 submissions had only PDF in EasyChair
 * 1 submission had only text in EasyChair
 
@@ -79,12 +79,8 @@ The decision per submission was done by silent consensus by individual chairs wh
 *   Oscar Corcho (Universidad Politécnica de Madrid, Spain)
 *   David De Roure (University of Oxford and Alan Turing Institute, UK)
 *   José Manuel Gómez Pérez (expertsystem.com, Spain)
-*   Farah Zaib Khan (The University of Melbourne, Australia)
 *   David Koop (University of Massachusetts Dartmouth, USA)
-*   Dimitris Koureas (Naturalis, NL)
-*   Paolo Manghi (Open AIRE and CNR, Pisa Italy)
 *   Raja Mazumder (BioComputeObjects, George Washington University, USA)
 *   James Myers (SEAD project, University of Michigan, USA)
 *   Denis Parfenov (open knowledge, Ireland)
 *   Peter Sefton (University of Technology Sydney, Australia)
-*   Anita de Waard (Elsevier)
