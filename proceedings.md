@@ -58,7 +58,7 @@ _These abstracts have been accepted for [talks](/ro2019/schedule/) at RO2019:_
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3265460](https://doi.org/10.5281/zenodo.3265460) [[reviews](/ro2019/reviews/1)]
 
-Isabelle Perseil, Petr Holub (2019):  
+Isabelle Perseil, [Petr Holub](https://orcid.org/0000-0002-5358-616X) (2019):  
 **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 (no preprint available)
