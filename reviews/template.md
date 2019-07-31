@@ -14,14 +14,14 @@
 * Reviewer: (anonymous)
 
 
-## Quality of Writing
+### Quality of Writing
 _Is the text easy to follow? Are core concepts defined or referenced? 
 Is it clear what is the author's contribution?_
 
 (delete as appropriate)
 * excellent / good / fair / poor
 
-## Research Object / Zenodo
+### Research Object / Zenodo
 
 _URL for a Research Object or Zenodo record provided?
    [Guidelines](http://researchobject.org/ro2019/submitting) followed?
@@ -37,7 +37,7 @@ _URL for a Research Object or Zenodo record provided?
 * good (followed guidelines, demonstrating own format, related resources included, but some details missing)
 * excellent (e.g. followed all guidelines, complete metadata or RO-like research data package, linked data, provenance)
 
-## Overall evaluation
+### Overall evaluation
 _Please provide a brief review, including a justification for your scores. 
 Both score and  review text are required._
 
