@@ -14,11 +14,11 @@ RO2019 encouraged _open peer review_, and recommend that reviewers are named an
 
 _Research papers were accepted for [talks](/ro2019/schedule/) at RO2019 and will be published in the [IEEE eScience 2019](https://escience2019.sdsc.edu/) official [conference proceedings](https://ieeexplore.ieee.org/servlet/opac?punumber=1001511 )._
 
-Publications in the _IEEE eScience 2019 proceedings_ are not Open Access. To encourage [Green Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436) before that we recommend paper authors post their _camera-ready version_ on [arXiv](https://arxiv.org/) or their institutional preprint server according to [IEEE's article sharing policies](https://ieeeauthorcenter.ieee.org/publish-with-ieee/author-education-resources/guidelines-and-policies/policy-posting-your-article/). Below preprints links to the _author-submitted_ version; note that these may be updated for a _camera ready_ version.
+> **Note**: Publications in the _IEEE eScience 2019 proceedings_ are unfortunately not Open Access. To encourage [Green Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436) we recommend paper authors post their _camera-ready version_ on [arXiv](https://arxiv.org/) or their institutional preprint server according to [IEEE's article sharing policies](https://ieeeauthorcenter.ieee.org/publish-with-ieee/author-education-resources/guidelines-and-policies/policy-posting-your-article/). Below preprint links are to the _author-submitted_ versions; note that these may later be updated for a _camera-ready_ version.
 
-[Katrina Fenlon](https://orcid.org/0000-0003-1483-5335) (2019):
-**Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects**.
-To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_
+[Katrina Fenlon](https://orcid.org/0000-0003-1483-5335) (2019):  
+**Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects**.  
+To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3268809](https://doi.org/10.5281/zenodo.3268809)
 
 [Kyle Chard](https://orcid.org/0000-0002-7370-4805),
@@ -31,20 +31,20 @@ Preprint: [https://doi.org/10.5281/zenodo.3268809](https://doi.org/10.5281/zenod
 [Ian Taylor](https://orcid.org/0000-0002-8904-9630),
 Thomas Thelen,
 [Matthew J. Turk](https://orcid.org/0000-0002-5294-0198),
-[Craig Willis](https://orcid.org/0000-0002-6148-7196) (2019):
-**Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses**.
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_
+[Craig Willis](https://orcid.org/0000-0002-6148-7196) (2019):  
+**Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses**.  
+To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3271763](https://doi.org/10.5281/zenodo.3271763)
 [[WholeTale BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)
 
-[Timothy McPhillips](https://orcid.org/xx), [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):
-**Reproducibility by Other Means: Transparent Research Objects**.
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_
+[Timothy McPhillips](https://orcid.org/xx), [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):  
+**Reproducibility by Other Means: Transparent Research Objects**.  
+To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3270620](https://doi.org/10.5281/zenodo.3270620)
 
-[Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):
-**Data Quality Issues in Current Nanopublications**.
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_
+[Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):  
+**Data Quality Issues in Current Nanopublications**.  
+To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_ 
 Preprint: [https://doi.org/10.5281/zenodo.3268904](https://doi.org/10.5281/zenodo.3268904)
 
 
@@ -52,23 +52,63 @@ Preprint: [https://doi.org/10.5281/zenodo.3268904](https://doi.org/10.5281/zenod
 
 _These abstracts have been accepted for [talks](/ro2019/schedule/) at RO2019:_
 
+[Anita Bandrowski](https://orcid.org/xx) (2019):  
+**How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+[https://doi.org/10.5281/zenodo.3265460](https://doi.org/10.5281/zenodo.3265460)
 
-[xx](https://orcid.org/xx) (2019):
-**xx**.
-To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_
-Preprint: [xx](xx)
+[Isabelle Perseil](https://orcid.org/xx), Petr Holub (2019):  
+**Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+(no preprint available)
+
+[Frederik Coppens](https://orcid.org/xx) (2019):  
+**The Data Life Cycle in Practice: an Infrastructure Point of View**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+[https://doi.org/10.5281/zenodo.3270824](https://doi.org/10.5281/zenodo.3270824)
+
+[David Kennedy](https://orcid.org/xx) (2019):  
+**The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+[https://doi.org/10.5281/zenodo.3336609](https://doi.org/10.5281/zenodo.3336609)
+
+[Jackson Brown](https://orcid.org/xx) (2019):  
+**DSDB: Reproducible Computational Modeling**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+[https://doi.org/10.5281/zenodo.3337375](https://doi.org/10.5281/zenodo.3337375)
+
+[Kyle Chard](https://orcid.org/xx) (2019):  
+**Big Data Bags: A Scalable Packaging Format for Science**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+[https://doi.org/10.5281/zenodo.3338725](https://doi.org/10.5281/zenodo.3338725)
+
+[Anita de Waard](https://orcid.org/xx) (2019):  
+**Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+no preprint available
+
+[Rosa Filgueira](https://orcid.org/xx) (2019):  
+**DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+no preprint available
+
+[Kristi Holmes](https://orcid.org/xx) (2019):  
+**Architecting Attribution: expanding the scope of academic credit**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+[https://doi.org/10.5281/zenodo.3334688](https://doi.org/10.5281/zenodo.3334688)
 
 
-* Anita Bandrowski, et al: **How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium
-* Isabelle Perseil, Petr Holub: **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**
-* Frederik Coppens: **The Data Life Cycle in Practice: an Infrastructure Point of View**
-* David Kennedy: **The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings**
-* Jackson Brown,  Nicholas Weber: **DSDB: Reproducible Computational Modeling**
-* Kyle Chard:**Big Data Bags: A Scalable Packaging Format for Science**
-* Anita de Waard,  Marina Soares E Silva: **Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**
-* Rosa Filgueira: **DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment**
+[Daniel Katz](https://orcid.org/xx) (2019):  
+**Citation and Research Objects: Toward Active Research Objects**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+[https://doi.org/10.5281/zenodo.3338176xx](https://doi.org/10.5281/zenodo.3338176)
 
-_TODO: Add DOIs to preprints_
+
+[Stian Soiland-Reyes](https://orcid.org/xx) (2019):  
+**RO-Crate, a lightweight approach to Research Object data packaging**.  
+_At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+[https://doi.org/10.5281/zenodo.3337883](https://doi.org/10.5281/zenodo.3337883)
+
 
 
 ## Accepted for poster/demo
