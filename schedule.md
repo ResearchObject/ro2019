@@ -15,14 +15,14 @@ The schedule is being constructed. A rough overview is:
 * **08:30-09:00** Welcome and community update by Carole Goble
 * **09:00-10:00** Keynote (TBD)
 * **10:00-10:30** Unconference brain-storming, informal poster intro
-* **10:30-11:00** Coffee break? (TBD)
+* **10:30-11:00** Coffee break?
 * **10:00-11:30** Paper and abstract presentations
-* **12:00-13:00** Lunch? (TBD)
+* **12:00-13:00** Lunch
 * **13:00-14:30** Paper and abstract presentations
-* **14:30-15:00** Snack break? (TBD)
-* **15:00-17:00** Unconference: lightning talks, posters, demos ([add yours!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) , breakouts, discussions ([suggest topic!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=))
-* **17:00-17:30** Summary and future work
-* **17:00-19:00** eScience 2019 [Welcome Reception](https://escience2019.sdsc.edu/program) & [Gateways 2019](https://sciencegateways.org/web/gateways2019/) Poster Reception (TBD)
+* **14:30-15:00** Snack break
+* **15:00-16:45** Unconference: lightning talks, posters, demos ([add yours!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) , breakouts, discussions ([suggest topic!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=))
+* **16:45-17:00** Summary and future work
+* **17:00-19:00** eScience 2019 [Welcome Reception](https://escience2019.sdsc.edu/program) & [Gateways 2019](https://sciencegateways.org/web/gateways2019/) Poster Reception
 
 
 ### More of eScience 2019
