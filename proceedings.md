@@ -91,7 +91,7 @@ no preprint available
 [Rosa Filgueira](http://orcid.org/0000-0002-5715-3046) (2019):  
 **DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment**.  
 _At Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-no preprint available
+[https://doi.org/10.5281/zenodo.3357806](https://doi.org/10.5281/zenodo.3357806)
 
 [Kristi Holmes](https://orcid.org/0000-0001-8420-5254),
 [Nicole Vasilevsky](https://orcid.org/0000-0001-5208-3432),
