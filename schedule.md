@@ -37,11 +37,11 @@ The conference [Gateways 2019](https://sciencegateways.org/web/gateways2019/) ru
 See also the [list of accepted papers and abstracts](/ro2019/proceedings).
 
 * RO-1: Anita Bandrowski: [How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium](https://doi.org/10.5281/zenodo.3265460) (_10 mins_)
-* RO-2: Katrina Fenlon: [Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects](https://doi.org/10.5281/zenodo.3268809). (_15 mins_)
-* RO-3: Imran Asif: [Data Quality Issues in Current Nanopublications](https://doi.org/10.5281/zenodo.3268904) (_15 mins_)
+* RO-2: Katrina Fenlon: [Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects](https://doi.org/10.5281/zenodo.3268809). (_paper presentation 15 mins_)
+* RO-3: Imran Asif: [Data Quality Issues in Current Nanopublications](https://doi.org/10.5281/zenodo.3268904) (_paper presentation 15 mins_)
 * RO-4: Isabelle Perseil: **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**. _no preprint available_ (_10 mins_)
-* RO-5: Craig Willis: [Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses](https://doi.org/10.5281/zenodo.3271763) (_15 mins_)
-* RO-6: Bertram Ludaescher: [Reproducibility by Other Means: Transparent Research Objects](https://doi.org/10.5281/zenodo.3270620) (_15 mins_)
+* RO-5: Craig Willis: [Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses](https://doi.org/10.5281/zenodo.3271763) (_paper presentation 15 mins_)
+* RO-6: Bertram Ludaescher: [Reproducibility by Other Means: Transparent Research Objects](https://doi.org/10.5281/zenodo.3270620) (_paper presentation 15 mins_)
 * RO-7: Frederik Coppens: [The Data Life Cycle in Practice: an Infrastructure Point of View](https://doi.org/10.5281/zenodo.3270824) (_10 mins_)
 * RO-8: David Kennedy: [The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings](https://doi.org/10.5281/zenodo.3336609) (_10 mins_)
 * RO-9: Jackson Brown: [DSDB: Reproducible Computational Modeling](https://doi.org/10.5281/zenodo.3337375) (_10 mins_)
