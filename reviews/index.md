@@ -22,7 +22,7 @@ _**Note:** The list of peer reviews is currently under construction, as reviews 
 * RO-9: _TODO_
 * RO-10: _TODO_
 * RO-11: _TODO_
-* RO-12: _TODO_
+* [RO-12](12): DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment
 * [RO-13](13): Architecting Attribution: expanding the scope of academic credit
 * [RO-14](14): Citation and Research Objects: Toward Active Research Objects
 * [RO-15](15): RO-Crate, a lightweight approach to Research Object data packaging
