@@ -20,7 +20,7 @@ _**Note:** The list of peer reviews is currently under construction, as reviews 
 * [RO-7](7): The Data Life Cycle in Practice: an Infrastructure Point of View
 * RO-8: _TODO_
 * RO-9: _TODO_
-* RO-10: _TODO_
+* [RO-10](10): Big Data Bags: A Scalable Packaging Format for Science
 * [RO-11](11): Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud
 * [RO-12](12): DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment
 * [RO-13](13): Architecting Attribution: expanding the scope of academic credit

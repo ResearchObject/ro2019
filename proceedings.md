@@ -90,6 +90,7 @@ RO-9 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, US
 **Big Data Bags: A Scalable Packaging Format for Science**.  
 RO-10 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 [https://doi.org/10.5281/zenodo.3338725](https://doi.org/10.5281/zenodo.3338725)
+[[peer review](/ro2019/reviews/10)]
 
 [Anita de Waard](https://orcid.org/0000-0002-9034-4119), [Marina Soares E Silva](https://orcid.org/0000-0001-9530-627X) (2019):  
 **Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**.  
