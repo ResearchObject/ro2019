@@ -38,13 +38,15 @@ Thomas Thelen,
 RO-5 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3271763](https://doi.org/10.5281/zenodo.3271763)
-[[BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)] [[peer review](/ro2019/reviews/5)]
+[[BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)]
+[[peer review](/ro2019/reviews/5)]
 
 Timothy McPhillips, [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):  
 **Reproducibility by Other Means: Transparent Research Objects**.  
 RO-6 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
-Preprint: [https://doi.org/10.5281/zenodo.3270620](https://doi.org/10.5281/zenodo.3270620) [[peer review](/ro2019/reviews/6)]
+Preprint: [https://doi.org/10.5281/zenodo.3270620](https://doi.org/10.5281/zenodo.3270620)
+[[peer review](/ro2019/reviews/6)]
 
 [Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):  
 **Data Quality Issues in Current Nanopublications**.  
@@ -60,7 +62,8 @@ _These abstracts have been accepted for [talks](/ro2019/schedule/) at RO2019:_
 [Anita Bandrowski](https://orcid.org/0000-0002-5497-0243) (2019):  
 **How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium**.  
 RO-1 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-[https://doi.org/10.5281/zenodo.3265460](https://doi.org/10.5281/zenodo.3265460) [[peer review](/ro2019/reviews/1)]
+[https://doi.org/10.5281/zenodo.3265460](https://doi.org/10.5281/zenodo.3265460)
+[[peer review](/ro2019/reviews/1)]
 
 Isabelle Perseil, [Petr Holub](https://orcid.org/0000-0002-5358-616X) (2019):  
 **Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines**.  
@@ -70,7 +73,8 @@ RO-4 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, US
 [Frederik Coppens](https://orcid.org/0000-0001-6565-5145) (2019):  
 **The Data Life Cycle in Practice: an Infrastructure Point of View**.  
 RO-7 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-[https://doi.org/10.5281/zenodo.3270824](https://doi.org/10.5281/zenodo.3270824) [[peer review](/ro2019/reviews/7)]
+[https://doi.org/10.5281/zenodo.3270824](https://doi.org/10.5281/zenodo.3270824)
+[[peer review](/ro2019/reviews/7)]
 
 [David N. Kennedy](https://orcid.org/0000-0002-9377-0797) (2019):  
 **The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings**.  
@@ -91,6 +95,7 @@ RO-10 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, U
 **Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**.  
 RO-11 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 (no preprint available)
+[[peer review](/ro2019/reviews/11)]
 
 [Rosa Filgueira](http://orcid.org/0000-0002-5715-3046) (2019):  
 **DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment**.  
