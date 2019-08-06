@@ -11,12 +11,14 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 
 1. Table of Contents
 {:toc}
+1. [Schedule](schedule)
+2. [Proceedings](proceedings)
 
 ### News
 {:.no_toc}
 
-* [IEEE eScience Early-Bird registration deadline extended](https://escience2019.sdsc.edu/registration)  _5 aug 2019_
-* [Preliminary RO2019 schedule announced](schedule)
+* [Open Peer reviews published](reviews/)
+* [Schedule announced (preliminary)](schedule)
 * [Suggest an unconference activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
 * [Guide for submitting to RO2019](submitting)
     * [Submit a poster/demo](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) using GitHub _2 Sep 2019_
