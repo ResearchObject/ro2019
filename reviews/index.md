@@ -18,8 +18,8 @@ _**Note:** The list of peer reviews is currently under construction, as reviews 
 * [RO-1](1): How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium
 * [RO-4](4): Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines
 * [RO-7](7): The Data Life Cycle in Practice: an Infrastructure Point of View
-* RO-8: _TODO_
-* RO-9: _TODO_
+* [RO-8](8): The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings
+* [RO-9](9): DSDB: Reproducible Computational Modeling
 * [RO-10](10): Big Data Bags: A Scalable Packaging Format for Science
 * [RO-11](11): Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud
 * [RO-12](12): DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment
