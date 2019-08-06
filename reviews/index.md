@@ -66,7 +66,7 @@ In the [submission guide](/ro2019/submitting), authors were requested to deposit
 
 ## Reviewers
 
-After the extended deadline, EasyChair was opened for bidding, where 8 of the PC members indicated papers they preferred to review, being assigned _on average_ 1.4 "Yes" bids papers and 1.0 "Maybe"/"No" papers. 8 assignments were given to PC or chair members who did not bid:
+After the extended deadline, EasyChair was opened for bidding, where 8 of the PC members indicated papers they preferred to review, being assigned _on average_ 1.4 "Yes" bids papers and 1.0 "Maybe"/"No" papers. 8 assignments were given to PC or chair members who did not bid.
 
 | # | Assigned | Reviews | Yes (assigned) | Maybe (assigned) | No (assigned) | Bid | Yes (bid) | Maybe (bid) | Conflict | Fairness |
 | -  | - | - | - | - | - | - | - | - | - | - |
