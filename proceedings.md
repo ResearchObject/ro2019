@@ -23,6 +23,13 @@ To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_.
 Preprint: [https://doi.org/10.5281/zenodo.3268809](https://doi.org/10.5281/zenodo.3268809)
 [[peer review](/ro2019/reviews/2)]
 
+[Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):  
+**Data Quality Issues in Current Nanopublications**.  
+RO-3 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
+To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
+Preprint: [https://doi.org/10.5281/zenodo.3358983](https://doi.org/10.5281/zenodo.3358983)
+[[peer review](/ro2019/reviews/3)]
+
 [Kyle Chard](https://orcid.org/0000-0002-7370-4805),
 [Niall Gaffney](https://orcid.org/0000-0002-3668-9853),
 [Matthew B. Jones](https://orcid.org/0000-0003-0077-4738),
@@ -47,12 +54,6 @@ RO-6 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, US
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: [https://doi.org/10.5281/zenodo.3270620](https://doi.org/10.5281/zenodo.3270620)
 [[peer review](/ro2019/reviews/6)]
-
-[Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):  
-**Data Quality Issues in Current Nanopublications**.  
-RO-3 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
-Preprint: [https://doi.org/10.5281/zenodo.3358983](https://doi.org/10.5281/zenodo.3358983)
 
 
 ## Accepted for talks

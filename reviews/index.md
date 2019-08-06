@@ -9,7 +9,7 @@ _**Note:** The list of peer reviews is currently under construction, as reviews 
 
 ## Articles
 * [RO-2](2): Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects
-* RO-3: _TODO_
+* [RO-3](3): Data Quality Issues in Current Nanopublications
 * [RO-5](5): Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses
 * [RO-6](6): Reproducibility by Other Means: Transparent Research Objects
 
