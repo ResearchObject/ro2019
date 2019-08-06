@@ -89,6 +89,7 @@ After the extended deadline, EasyChair was opened for bidding, where 8 of the PC
 | q |  |  |  |  |  |  |  |  |  | 100 |
 | r | 2 | 2 | 2 |  |  |  ✔  | 3 |  |  | 100 |
 
+_(Table adapted from EasyChair, one row per randomized PC member)_
 
 Each submission was assigned to 2 members of the [RO2019 programme committee](/ro2019/#program-committee), with additional assignments if PC members were at risk of unresponsiveness. The chairs added fall-back reviews if PC members did not respond by deadline.
 
