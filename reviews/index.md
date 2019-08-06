@@ -66,7 +66,31 @@ In the [submission guide](/ro2019/submitting), authors were requested to deposit
 
 ## Reviewers
 
-After the extended deadline, each submission was assigned to 2 members of the [RO2019 programme committee](/ro2019/#program-committee), with additional assignments if PC members were at risk of unresponsiveness. The chairs added fall-back reviews if PC members did not respond by deadline.
+After the extended deadline, EasyChair was opened for bidding, where 8 of the PC members indicated papers they preferred to review, being assigned _on average_ 1.4 "Yes" bids papers and 1.0 "Maybe"/"No" papers. 8 assignments were given to PC or chair members who did not bid:
+
+| # | Assigned | Reviews | Yes (assignment) | Maybe (assignment) | No (assignment) | Bid | Yes (bid) | Maybe (bid) | Conflict | Fairness |
+| -  | - | - | - | - | - | - | - | - | - | - |
+| a | 1 | 1 | 1 |   |   | ✔ | 3 | 1 |   | 100 |
+| b |  |  |  |  |  |  |  |  |  | 100 |
+| c |  |  |  |  |  |  |  |  |  | 100 |
+| d | 2 | 2 |  |  | 2 |  |  |  |  | -100 |
+| e | 3 |  | 1 | 1 | 1 |  ✔  | 1 | 3 | 1 | 6 |
+| f | 2 | 2 | 2 |  |  |  ✔  | 3 | 1 |  | 100 |
+| g |  | 1 |  |  |  |  |  |  |  | 100 |
+| h |  |  |  |  |  |  |  |  |  | 100 |
+| i | 2 | 2 | 1 | 1 |  |  ✔  | 1 | 5 | 1 | 60 |
+| j | 2 | 2 |  |  | 2 |  |  |  |  | -100 |
+| k | 1 | 1 |  |  | 1 |  |  |  |  | -100 |
+| l | 2 | 2 | 1 | 1 |  |  ✔  | 1 | 3 |  | 60 |
+| m | 3 | 3 | 2 | 1 |  |  ✔  | 4 | 2 |  | 73 |
+| n | 4 | 4 | 1 |  | 3 |  ✔  | 1 | 1 |  | -50 |
+| o | 3 | 3 |  |  | 3 |  |  |  |  | -100 |
+| p |  |  |  |  |  |  |  |  | 1 | 100 |
+| q |  |  |  |  |  |  |  |  |  | 100 |
+| r | 2 | 2 | 2 |  |  |  ✔  | 3 |  |  | 100 |
+
+
+Each submission was assigned to 2 members of the [RO2019 programme committee](/ro2019/#program-committee), with additional assignments if PC members were at risk of unresponsiveness. The chairs added fall-back reviews if PC members did not respond by deadline.
 
 The decision per submission was done by silent consensus by individual chairs where reviews where consistent. One submission was discussed further and authors requested to revise before acceptance.
 
