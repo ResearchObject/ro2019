@@ -48,7 +48,11 @@ Preprint: [https://doi.org/10.5281/zenodo.3271763](https://doi.org/10.5281/zenod
 [[BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)]
 [[peer review](/ro2019/reviews/5)]
 
-Timothy M. McPhillips <!-- https://orcid.org/0000-0002-8238-2449 -->, [Craig Willis](https://orcid.org/0000-0002-6148-7196), [Michael R. Gryk](https://orcid.org/0000-0002-3483-8384), [Santiago Núñez-Corrales](https://orcid.org/0000-0003-4342-6223), [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):
+Timothy M. McPhillips, <!-- https://orcid.org/0000-0002-8238-2449 -->
+[Craig Willis](https://orcid.org/0000-0002-6148-7196), 
+[Michael R. Gryk](https://orcid.org/0000-0002-3483-8384), 
+[Santiago Núñez-Corrales](https://orcid.org/0000-0003-4342-6223), 
+[Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):
  **Reproducibility by Other Means: Transparent Research Objects**.  
 RO-6 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
