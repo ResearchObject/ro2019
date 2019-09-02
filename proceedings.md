@@ -44,8 +44,8 @@ Thomas Thelen,
 **Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses**.  
 RO-5 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
-Preprint: [https://doi.org/10.5281/zenodo.3271763](https://doi.org/10.5281/zenodo.3271763)
-[[BDBag](https://zenodo.org/record/3271763/files/5cb4ffead9323600016c4d4c.zip?download=1)]
+Preprint: [https://doi.org/10.5281/zenodo.3381754](https://doi.org/10.5281/zenodo.3381754)
+[[BDBag](https://zenodo.org/record/3381754/files/5cb4ffead9323600016c4d4c.zip?download=1)]
 [[peer review](/ro2019/reviews/5)]
 
 Timothy M. McPhillips, <!-- https://orcid.org/0000-0002-8238-2449 -->
