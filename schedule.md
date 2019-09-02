@@ -46,7 +46,7 @@ See also the [list of accepted papers and abstracts](/ro2019/proceedings).
 * RO-8: David Kennedy: [The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings](https://doi.org/10.5281/zenodo.3336609) (_10 mins_)
 * RO-9: Jackson Brown: [DSDB: Reproducible Computational Modeling](https://doi.org/10.5281/zenodo.3337375) (_10 mins_)
 * RO-10: Kyle Chard: [Big Data Bags: A Scalable Packaging Format for Science](https://doi.org/10.5281/zenodo.3338725) (_10 mins_)
-* RO-11: Anita de Waard: **Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**. _no preprint available_ (_10 mins_)
+* RO-11: Anita de Waard: [Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**](https://doi.org/10.5281/zenodo.3382263). (_10 mins_)
 * RO-12: Rosa Filgueira: [DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment](https://doi.org/10.5281/zenodo.3357806). (_10 mins_)
 * RO-13: Kristi Holmes: [Architecting Attribution: expanding the scope of academic credit](https://doi.org/10.5281/zenodo.3334688) (_10 mins_)
 * RO-14: Daniel Katz: [Citation and Research Objects: Toward Active Research Objects](https://doi.org/10.5281/zenodo.3338176) (_10 mins_)
