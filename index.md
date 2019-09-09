@@ -17,12 +17,14 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 ### News
 {:.no_toc}
 
+* Keynote Speaker announced: **Bertram Ludäscher**, University of Illinois at Urbana-Champaign
+* [Proceedings published](proceedings)
 * [Open Peer reviews published](reviews/)
 * [Schedule announced (preliminary)](schedule)
 * [Suggest an unconference activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
 * [Guide for submitting to RO2019](submitting)
-    * [Submit a poster/demo](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) using GitHub _2 Sep 2019_
-    * ..or using [EasyChair](https://easychair.org/conferences/?conf=ro2019)
+    * ~~[Submit a poster/demo](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) using GitHub~~
+    * ~~..or using [EasyChair](https://easychair.org/conferences/?conf=ro2019)~~
     * ~~[Abstract/article submissions at EasyChair](https://easychair.org/conferences/?conf=ro2019) ..or [GitHub](submitting#alternative-submit-for-review-in-github)~~
     * ~~[Call for Papers](cfp)~~
 
@@ -67,16 +69,16 @@ This workshop aims for a mix of presentation sessions and "unconferencing" sessi
 *   5-minute Lightning talks for ad-hoc presentations and hot topics
 *   ~1 hour break-out sessions to further build relationships across scientific domains and RO practitioners.
 
-## Submit
+## Submissions
 
-Submissions are welcome for ~~**Short articles** (about 4-8 pages), **Abstracts** for oral communication (1-2 pages) and~~ **Poster and demo abstracts** (1-2 pages)
+For RO2019 we welcomed submissions for **Short articles** (about 4-8 pages), **Abstracts** for oral communication (1-2 pages) and **Poster and demo abstracts** (1-2 pages).
 
-RO2019 encourages [open peer review](/ro2019/reviews/), and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired.
+RO2019 practiced [open peer review](/ro2019/reviews/), and recommended that reviewers are named and attributed; however reviewers could be anonymous if so desired.
 
-Please see our [submission guide](submitting) for details, then either:
+Please see our [submission guide](submitting) for details. Authors could then either:
 
-* [Submit via GitHub](https://github.com/ResearchObject/ro2019/issues/new/choose) -or-
-* [Submit via EasyChair](https://easychair.org/conferences/?conf=ro2019)
+* ~~[Submit via GitHub](https://github.com/ResearchObject/ro2019/issues/new/choose) -or-
+* ~~[Submit via EasyChair](https://easychair.org/conferences/?conf=ro2019)~~
 
 ## Timeline
 
@@ -90,6 +92,10 @@ Please see our [submission guide](submitting) for details, then either:
 * **2019-09-24** RO2019 at IEEE eScience 2019
 
 All accepted submitters will be requested to _present_ at the workshop and _register_ for [IEEE eScience 2019](https://escience2019.sdsc.edu/), where [fees](https://escience2019.sdsc.edu/registration) apply.
+
+## Keynote speaker
+
+![Bertram Ludäscher:](https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/ludaescher-square.jpg) We are proud to announce that the keynote speaker will be [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher) from University of Illinois at Urbana-Champaign.
 
 ## Short bio of the organizers
 
