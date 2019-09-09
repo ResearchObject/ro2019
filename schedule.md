@@ -36,7 +36,7 @@ The schedule is being constructed. A rough overview is:
 * **14:30-15:00** _Snack break_
 * **15:00-15:55** Paper and abstract presentations: **Scientific Workflows**
   * RO-2: Katrina Fenlon: [Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects](https://doi.org/10.5281/zenodo.3268809). (_paper presentation 15 mins_)
-  * RO-4: Isabelle Perseil: [Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines](https://doi.org/10.5281/zenodo.3362412) (_10 mins_)
+  * RO-4: Rudolf Wittner: [Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines](https://doi.org/10.5281/zenodo.3362412) (_10 mins_)
   * RO-12: Rosa Filgueira: [DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment](https://doi.org/10.5281/zenodo.3357806). (_10 mins_)
   * RO-11: Anita de Waard: [Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud**](https://doi.org/10.5281/zenodo.3382263). (_10 mins_)
 * **16:00-16:45** Unconference: lightning talks, posters, demos ([add yours!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) , breakouts, discussions ([suggest topic!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=))
