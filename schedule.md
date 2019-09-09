@@ -1,12 +1,10 @@
 # Programme for RO2019
 
-## Schedule
-
 * **Venue:** [IEEE eScience 2019](https://escience2019.sdsc.edu/workshops), [Catamaran Resort Hotel and Spa](https://escience2019.sdsc.edu/venue), San Diego, CA, US
 * **Date:** Tuesday 24 September 2019 (2019-09-24) _full day_
 * **Cost**: [Registration fees apply](https://escience2019.sdsc.edu/registration), _Single Day_ fee available ($300)
 
-The schedule is being constructed. A rough overview is:
+## Schedule
 
 * **08:00-08:30** Registration Opens, Breakfast Available
 * **08:30-09:00** Welcome and community update by **Carole Goble**, The University of Manchester
