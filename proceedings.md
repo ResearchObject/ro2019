@@ -3,10 +3,12 @@
 
 The below articles and abstracts were reviewed to be accepted for [RO2019](/ro2019/) following the [call for contributions](ro2019/cfp). <!-- See also the [schedule](/ro2019/schedule/) for the corresponding talks. -->
 
-RO2019 encouraged [open peer review](reviews/), and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. Reviews are being transcribed to be added to this page progressively.
+RO2019 encouraged [open peer review](reviews/), and recommend that reviewers be named and attributed; however reviewers could be anonymous if so desired. Links to the [reviews](reviews/) have been added for all submissions below.
 
 ## News
 
+* DOIs updated for camera-ready versions
+* Open Peer reviews published
 * Accepted contributions announced
 
 
@@ -14,7 +16,7 @@ RO2019 encouraged [open peer review](reviews/), and recommend that reviewers ar
 
 _Research papers were accepted for [talks](/ro2019/schedule/) at RO2019 and will be published in the [IEEE eScience 2019](https://escience2019.sdsc.edu/) official [conference proceedings](https://ieeexplore.ieee.org/servlet/opac?punumber=1001511 )._
 
-> **Note**: Publications in the _IEEE eScience 2019 proceedings_ are unfortunately not Open Access. To encourage [Green Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436) we recommend paper authors post their _camera-ready version_ on [arXiv](https://arxiv.org/) or their institutional preprint server according to [IEEE's article sharing policies](https://ieeeauthorcenter.ieee.org/publish-with-ieee/author-education-resources/guidelines-and-policies/policy-posting-your-article/). Below preprint links are to the _author-submitted_ versions; note that these may later be updated for a _camera-ready_ version.
+> **Note**: Publications in the _IEEE eScience 2019 proceedings_ are unfortunately not Open Access. To encourage [Green Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436) we recommended paper authors post their _camera-ready version_ on [arXiv](https://arxiv.org/) or their institutional preprint server according to [IEEE's article sharing policies](https://ieeeauthorcenter.ieee.org/publish-with-ieee/author-education-resources/guidelines-and-policies/policy-posting-your-article/). 
 
 [Katrina Fenlon](https://orcid.org/0000-0003-1483-5335) (2019):  
 **Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects**.  
