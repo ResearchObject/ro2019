@@ -15,15 +15,19 @@ The schedule is being constructed. A rough overview is:
 * **08:30-09:00** Welcome and community update by Carole Goble, The University of Manchester
 * **09:00-10:00** Keynote: Bertram Ludäscher, University of Illinois at Urbana-Champaign
 * **10:00-10:30** _Coffee break_
-* **10:00-11:45** Paper and abstract presentations
-* **11:45-12:00** Unconference brain-storming, informal poster intro
-* **12:00-13:00** _Lunch and informal poster session_
-* **13:00-14:30** Paper and abstract presentations
+* **10:30-11:25** Paper and abstract presentations: Packaging
+* **11:30-11:55** Abstract presentations: Credit
+* **11:55-12:05** Unconference briefing, informal poster intro
+* **12:05-13:00** _Lunch and informal poster session_
+* **13:00-13:35** Paper and abstract presentations: Data Life Cycle
+* **13:45-14:20** Paper and abstract presentations: Reproducibility
+* **14:20-14:30** Unconference brain-storming
 * **14:30-15:00** _Snack break_
-* **15:00-15:45** Paper and abstract presentations
-* **15:45-16:45** Unconference: lightning talks, posters, demos ([add yours!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) , breakouts, discussions ([suggest topic!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=))
+* **15:00-15:55** Paper and abstract presentations: Scientific Workflows
+* **16:00-16:45** Unconference: lightning talks, posters, demos ([add yours!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) , breakouts, discussions ([suggest topic!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=))
 * **16:45-17:00** Summary and future work
 * **17:00-19:00** eScience 2019 [Welcome Reception](https://escience2019.sdsc.edu/program) & [Gateways 2019](https://sciencegateways.org/web/gateways2019/) Poster Reception
+* **17:00-19:00** Late night RO2019 mini-hackathon _(optional)_
 
 
 ### More of eScience 2019
