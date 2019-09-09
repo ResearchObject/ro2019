@@ -11,13 +11,12 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 
 1. Table of Contents
 {:toc}
-1. [Schedule](schedule)
-2. [Proceedings](proceedings)
+
 
 ### News
 {:.no_toc}
 
-* Keynote Speaker announced: **Bertram Ludäscher**, University of Illinois at Urbana-Champaign
+* [Keynote Speaker announced](#keynote-speaker)
 * [Proceedings published](proceedings)
 * [Open Peer reviews published](reviews/)
 * [Schedule announced (preliminary)](schedule)
@@ -28,6 +27,17 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
     * ~~[Abstract/article submissions at EasyChair](https://easychair.org/conferences/?conf=ro2019) ..or [GitHub](submitting#alternative-submit-for-review-in-github)~~
     * ~~[Call for Papers](cfp)~~
 
+### Resources
+
+1. [RO2019 schedule](schedule)
+2. [RO2019 proceedings](proceedings)
+3. [RO2019 Call for Papers](cfp)
+4. [Guide for submitting to RO2019](submitting)
+5. [RO2019 Open Peer Reviews](reviews)
+6. [Suggestions and submissions in GitHub](https://github.com/ResearchObject/ro2019/issues)
+7. [Zenodo RO community](https://zenodo.org/communities/ro)
+8. [eScience 2019 Registration](https://escience2019.sdsc.edu/registration)
+9. [eScience 2019 Technical Program Schedule](https://escience2019.sdsc.edu/program)
 
 
 ## Workshop Organisers
