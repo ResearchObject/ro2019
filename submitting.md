@@ -14,7 +14,7 @@ This page describes how authors could submit to the [Workshop on Research Object
 
 ## Submission types
 
-RO2019 welcome submissions for:
+RO2019 welcomed submissions for:
 
 ### Oral Communications
 
@@ -61,7 +61,7 @@ See guidance below for further details.
 
 RO2019 encourages _open peer review_, and recommend that reviewers are named and attributed; however reviewers may be anonymous if so desired. Reviewers are welcome to publish their reviews using the same guidelines as the research articles.
 
-Peer reviews will be published on the RO2019 website following the workshop.
+[Peer reviews](reviews) will be published on the RO2019 website following the workshop.
 
 ## Contact
 

@@ -7,14 +7,14 @@ RO2019 encouraged [open peer review](reviews/), and recommend that reviewers be
 
 ## News
 
-* DOIs updated for camera-ready versions
+* DOIs updated for author-accepted versions
 * Open Peer reviews published
 * Accepted contributions announced
 
 
 ## Articles
 
-_Research papers were accepted for [talks](/ro2019/schedule/) at RO2019 and will be published in the [IEEE eScience 2019](https://escience2019.sdsc.edu/) official [conference proceedings](https://ieeexplore.ieee.org/servlet/opac?punumber=1001511 )._
+_Research papers were accepted for [talks](/ro2019/schedule/) at RO2019 and will be published in the [IEEE eScience 2019](https://escience2019.sdsc.edu/) official [conference proceedings](https://ieeexplore.ieee.org/servlet/opac?punumber=1001511 ).  Accepted abstracts are published below and in the [Zenodo ResearchObject community](https://zenodo.org/communities/ro)._
 
 > **Note**: Publications in the _IEEE eScience 2019 proceedings_ are unfortunately not Open Access. To encourage [Green Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436) we recommended paper authors post their _camera-ready version_ on [arXiv](https://arxiv.org/) or their institutional preprint server according to [IEEE's article sharing policies](https://ieeeauthorcenter.ieee.org/publish-with-ieee/author-education-resources/guidelines-and-policies/policy-posting-your-article/). 
 
