@@ -16,16 +16,16 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 ### News
 {:.no_toc}
 
-* [Full schedule announced](schedule)
+* [Workshop Programme announced](schedule)
 * [Keynote Speaker announced](#keynote-speaker)
 * [Proceedings published](proceedings)
-* [Open Peer reviews published](reviews/)
-* [Suggest an unconference activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
+* [Open Peer Reviews published](reviews/)
+* [Suggest an _unconference_ activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
 
 
 ### Resources
 
-1. [RO2019 schedule](schedule)
+1. [RO2019 schedule and programme](schedule)
 2. [RO2019 proceedings](proceedings)
 3. [RO2019 Call for Papers](cfp)
 4. [Guide for submitting to RO2019](submitting)
