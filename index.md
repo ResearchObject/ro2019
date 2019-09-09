@@ -83,13 +83,13 @@ Please see our [submission guide](submitting) for details, then either:
 * ~~2019-07-05 RO2019 submissions due: articles & oral presentation~~
 * ~~2019-07-15 RO2019 submissions due: abstracts for oral presentation~~
 * ~~2019-07-27 RO2019 Notification of acceptance~~
-* **2019-07-30** [Preliminary RO2019 Programme](schedule)
-* **2019-08-09** ~~2019-07-29~~ Camera-ready papers due for accepted articles
-* **2019-09-02** RO2019 submissions due: poster/demo abstracts
+* ~~2019-07-30~~ [Preliminary RO2019 Programme](schedule)
+* ~~2019-08-30~~ Camera-ready papers due for accepted articles in (IEEE eScience proceedings)
+* ~~2019-09-02~~ RO2019 submissions due: poster/demo abstracts
 * **2019-09-09** RO2019 Programme finalized
 * **2019-09-24** RO2019 at IEEE eScience 2019
 
-All accepted submitters will be requested to _present_ at the workshop and _register_ for [IEEE eScience 2019](https://escience2019.sdsc.edu/), where [fees](https://escience2019.sdsc.edu/registration) apply (**Early bird** discount available until 5 August).
+All accepted submitters will be requested to _present_ at the workshop and _register_ for [IEEE eScience 2019](https://escience2019.sdsc.edu/), where [fees](https://escience2019.sdsc.edu/registration) apply.
 
 ## Short bio of the organizers
 
