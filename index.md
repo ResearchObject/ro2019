@@ -21,11 +21,7 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 * [Open Peer reviews published](reviews/)
 * [Schedule announced (preliminary)](schedule)
 * [Suggest an unconference activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
-* [Guide for submitting to RO2019](submitting)
-    * ~~[Submit a poster/demo](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=) using GitHub~~
-    * ~~..or using [EasyChair](https://easychair.org/conferences/?conf=ro2019)~~
-    * ~~[Abstract/article submissions at EasyChair](https://easychair.org/conferences/?conf=ro2019) ..or [GitHub](submitting#alternative-submit-for-review-in-github)~~
-    * ~~[Call for Papers](cfp)~~
+
 
 ### Resources
 
