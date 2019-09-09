@@ -83,7 +83,7 @@ RO2019 practiced [open peer review](/ro2019/reviews/), and recommended that revi
 
 Please see our [submission guide](submitting) for details. Authors could then either:
 
-* ~~[Submit via GitHub](https://github.com/ResearchObject/ro2019/issues/new/choose) -or-
+* ~~[Submit via GitHub](https://github.com/ResearchObject/ro2019/issues/new/choose)~~ -or-
 * ~~[Submit via EasyChair](https://easychair.org/conferences/?conf=ro2019)~~
 
 ## Timeline
@@ -97,7 +97,7 @@ Please see our [submission guide](submitting) for details. Authors could then ei
 * ~~2019-09-09 RO2019 [Programme](schedule) finalized~~
 * **2019-09-24** RO2019 at IEEE eScience 2019
 
-All accepted submitters will be requested to _present_ at the workshop and _register_ for [IEEE eScience 2019](https://escience2019.sdsc.edu/), where [fees](https://escience2019.sdsc.edu/registration) apply.
+All accepted submitters were requested to _present_ at the workshop and _register_ for [IEEE eScience 2019](https://escience2019.sdsc.edu/), where [fees](https://escience2019.sdsc.edu/registration) apply.
 
 ## Keynote speaker
 

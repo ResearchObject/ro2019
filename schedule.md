@@ -1,7 +1,4 @@
-# Programme for RO2019 (preliminary)
-
-Note that this is a **preliminary** programme awaiting speaker confirmation.
-
+# Programme for RO2019
 
 ## Schedule
 
