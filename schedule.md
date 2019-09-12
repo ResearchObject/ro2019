@@ -15,18 +15,22 @@
   * RO-1: Anita Bandrowski: [How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium](https://doi.org/10.5281/zenodo.3265460) (_10 mins_)
   * RO-10: Kyle Chard: [Big Data Bags: A Scalable Packaging Format for Science](https://doi.org/10.5281/zenodo.3338725) (_10 mins_)
   * RO-15: Stian Soiland-Reyes: [RO-Crate, a lightweight approach to Research Object data packaging](https://doi.org/10.5281/zenodo.3337883) (_10 mins_)
+  * Discussion of topic and questions to presenters (5-10 mins)
 * **11:30-11:55** Abstract presentations: **Credit**
   * RO-13: Kristi Holmes: [Architecting Attribution: expanding the scope of academic credit](https://doi.org/10.5281/zenodo.3334688) (_10 mins_)
   * RO-14: Daniel Katz: [Citation and Research Objects: Toward Active Research Objects](https://doi.org/10.5281/zenodo.3338176) (_10 mins_)
+  * _Discussion of topic and questions to presenters_ (5-10 mins)  
 * **11:55-12:05** Unconference briefing, informal poster intro
 * **12:05-13:00** _Lunch and informal poster session_
 * **13:00-13:35** Paper and abstract presentations: **Data Life Cycle**
   * RO-3: Imran Asif: [Data Quality Issues in Current Nanopublications](https://doi.org/10.5281/zenodo.3358983) (_paper presentation 15 mins_)
   * RO-7: Frederik Coppens: [The Data Life Cycle in Practice: an Infrastructure Point of View](https://doi.org/10.5281/zenodo.3270824) (_10 mins_)
+  * _Discussion of topic and questions to presenters_ (5-10 mins)
 * **13:45-14:20** Paper and abstract presentations: **Reproducibility**
   * RO-6: Bertram Ludaescher: [Reproducibility by Other Means: Transparent Research Objects](https://doi.org/10.5281/zenodo.3270620) (_paper presentation 15 mins_)
   * RO-8: David Kennedy: [The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings](https://doi.org/10.5281/zenodo.3336609) (_10 mins_)
   * RO-9: Jackson Brown: [DSDB: Reproducible Computational Modeling](https://doi.org/10.5281/zenodo.3337375) (_10 mins_)
+  * _Discussion of topic and questions to presenters_ (5-10 mins)
 * **14:20-14:30** Unconference brain-storming
 * **14:30-15:00** _Snack break_
 * **15:00-15:55** Paper and abstract presentations: **Scientific Workflows**
@@ -34,6 +38,7 @@
   * RO-4: Rudolf Wittner: [Towards a reconstructive methodology for building a provenance metamodel that fits the complex bioinformatics pipelines](https://doi.org/10.5281/zenodo.3362412) (_10 mins_)
   * RO-12: Rosa Filgueira: [DARE Platform: Enabling Easy Data-Intensive Workflow Composition and Deployment](https://doi.org/10.5281/zenodo.3357806) (_10 mins_)
   * RO-11: Anita de Waard: [Research Object Composer: A Tool for Publishing Complex Data Objects in the Cloud](https://doi.org/10.5281/zenodo.3382263) (_10 mins_)
+  * _Discussion of topic and questions to presenters_ (5-10 mins)  
 * **16:00-16:45** Unconference: lightning talks, posters, demos ([add yours!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=)), breakouts, discussions ([suggest topic!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=))
 * **16:45-17:00** Summary and future work
 * **17:00-19:00** eScience 2019 [Welcome Reception](https://escience2019.sdsc.edu/program) & [Gateways 2019](https://sciencegateways.org/web/gateways2019/) Poster Reception
