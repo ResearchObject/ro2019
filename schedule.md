@@ -9,7 +9,7 @@
 
 * **08:00-08:30** Registration Opens, Breakfast Available. Come to the room
 * **08:30-09:10** Welcome and community update by **Carole Goble**, The University of Manchester
-* **09:10-10:05** Keynote: **Bertram Ludäscher**, University of Illinois at Urbana-Champaign
+* **09:10-10:05** Keynote, **Bertram Ludäscher**, University of Illinois at Urbana-Champaign: **From Research Objects to Reproducible Science Tales**
 * **10:05-10:30** _Coffee break_
 * **10:30-11:30** Paper and abstract presentations: **Packaging**
   * RO-5: Craig Willis: [Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses](https://doi.org/10.5281/zenodo.3271763) (_paper presentation 15 mins_)
