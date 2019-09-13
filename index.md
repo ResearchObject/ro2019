@@ -101,7 +101,7 @@ All accepted submitters were requested to _present_ at the workshop and _registe
 
 ## Keynote speaker
 
-![Bertram Ludäscher:](https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/ludaescher-square.jpg) We are proud to announce that the keynote speaker will be [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher) from University of Illinois at Urbana-Champaign.
+![Bertram Ludäscher:](https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/ludaescher-square.jpg) We are proud to announce that the keynote speaker will be [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher) from University of Illinois at Urbana-Champaign. Bertram will present **From Research Objects to Reproducible Science Tales**.
 
 ## Short bio of the organizers
 
