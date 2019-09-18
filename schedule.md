@@ -5,6 +5,17 @@
 * **Date:** Tuesday 24 September 2019 (2019-09-24) _full day_
 * **Cost**: [Registration fees apply](https://escience2019.sdsc.edu/registration), _Single Day_ fee available ($300)
 
+Twitter hashtags: [#eScience2019](https://twitter.com/hashtag/eScience2019?f=live) [#ResearchObjects](https://twitter.com/hashtag/ResearchObjects?f=live) (plural!)
+
+## Slides
+
+RO2019 presenters are kindly requested to upload slides at <https://www.dropbox.com/request/B1EDF6bNOULm9wS5S7Z7>
+_(uploads assumed to be re-sharable under open access license [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise noted)_
+
+<!--
+Participants can view or download [slides](https://www.dropbox.com/sh/ac1wecv9e08xsvn/AAAeE8p9vDJ_v9EjvSzCnfO-a?dl=0).
+-->
+
 ## Schedule
 
 * **08:00-08:30** Registration Opens, Breakfast Available. Come to the room
