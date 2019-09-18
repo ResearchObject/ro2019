@@ -29,8 +29,9 @@ _**Note:** The list of peer reviews is currently under construction, as reviews 
 
 ## Posters
 
-_Pending deadline_
-
+ * [RO-16](16): Packaging Municipal Legislative Event Data for Reuse & Exchange
+ * [RO-17](17): Simple, Standards-based Archiving in Dataverse
+ * [RO-18](18): Managing Manifests and Distributing Datasets
 
 ## Announcements
 
