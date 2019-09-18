@@ -8,6 +8,8 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 * **When:** Tuesday 24 September 2019 (2019-09-24)
 * **Duration:** 1 day
 * **Previous workshop:** [RO2018](http://www.researchobject.org/ro2018/)
+* **Hashtags**: [#eScience2019](https://twitter.com/hashtag/eScience2019?f=live) [#ResearchObjects](https://twitter.com/hashtag/ResearchObjects?f=live) (plural!)
+
 
 1. Table of Contents
 {:toc}
@@ -22,6 +24,8 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 * [Open Peer Reviews published](reviews/)
 * [Suggest an _unconference_ activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
 * [Suggest lightning talks](https://s.apache.org/ro2019)
+* Twitter hashtags: [#eScience2019](https://twitter.com/hashtag/eScience2019?f=live) [#ResearchObjects](https://twitter.com/hashtag/ResearchObjects?f=live) (plural!)
+
 
 ### Resources
 
