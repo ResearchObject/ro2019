@@ -21,19 +21,20 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 * [Proceedings published](proceedings)
 * [Open Peer Reviews published](reviews/)
 * [Suggest an _unconference_ activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
-
+* [Suggest lightning talks](https://s.apache.org/ro2019)
 
 ### Resources
 
 1. [RO2019 schedule and programme](schedule)
-2. [RO2019 proceedings](proceedings)
-3. [RO2019 Call for Papers](cfp)
-4. [Guide for submitting to RO2019](submitting)
-5. [RO2019 Open Peer Reviews](reviews)
-6. [Suggestions and submissions in GitHub](https://github.com/ResearchObject/ro2019/issues)
-7. [Zenodo RO community](https://zenodo.org/communities/ro)
-8. [eScience 2019 Registration](https://escience2019.sdsc.edu/registration)
-9. [eScience 2019 Technical Program Schedule](https://escience2019.sdsc.edu/program)
+2. [Collective notes for RO2019 workshop](https://s.apache.org/ro2019)
+3. [RO2019 proceedings](proceedings)
+4. [RO2019 Call for Papers](cfp)
+5. [Guide for submitting to RO2019](submitting)
+6. [RO2019 Open Peer Reviews](reviews)
+7. [Suggestions and submissions in GitHub](https://github.com/ResearchObject/ro2019/issues)
+8. [Zenodo RO community](https://zenodo.org/communities/ro)
+9. [eScience 2019 Registration](https://escience2019.sdsc.edu/registration)
+10. [eScience 2019 Technical Program Schedule](https://escience2019.sdsc.edu/program)
 
 
 ## Workshop Organisers
@@ -67,13 +68,15 @@ However, many challenges remain as to how to increase Research Object uptake wit
 
 In this workshop, following on from the successful [RO2018](http://www.researchobject.org/ro2018/) held at eScience 2018, we will explore recent advancements in Research Objects and publishing of research data. 
 
-This workshop aims for a mix of presentation sessions and "unconferencing" sessions including:
+This workshop aims for a mix of presentation sessions and _unconferencing_ sessions including:
 
 *   Keynotes and invited talks
 *   Presentations selected from short article submissions and extended abstracts
 *   Demonstrations and (informal) poster session
-*   5-minute Lightning talks for ad-hoc presentations and hot topics
-*   ~1 hour break-out sessions to further build relationships across scientific domains and RO practitioners.
+*   2-minute Lightning talks for ad-hoc presentations and hot topics
+*   Break-out sessions to further build relationships across scientific domains and RO practitioners.
+
+To suggest lightning talks, demos, discussion topics and break-out sessions, add to the [RO2019 collective notes](https://s.apache.org/ro2019) or [add to GitHub](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=).
 
 ## Submissions
 
@@ -85,6 +88,7 @@ Please see our [submission guide](submitting) for details. Authors could then ei
 
 * ~~[Submit via GitHub](https://github.com/ResearchObject/ro2019/issues/new/choose)~~ -or-
 * ~~[Submit via EasyChair](https://easychair.org/conferences/?conf=ro2019)~~
+* [Suggest lightning talk/demo](https://s.apache.org/ro2019)
 
 ## Timeline
 
