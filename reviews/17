@@ -1,0 +1,102 @@
+# Peer Review of RO-17
+
+* Authors:  James Myers, Sebastian Karcher, Sebastian Ostrowski, Nic Weber. 
+* Title: **Simple, Standards-based Archiving in Dataverse**
+* Submission: <https://doi.org/10.5281/zenodo.3384296>
+* Submitted as: [RO2019 poster](https://researchobject.github.io/ro2019/cfp)
+* Decision:	**accept** 
+
+
+
+## Review 1
+
+* Review by: Peter Sefton
+
+## Quality of Writing
+
+
+Good 
+
+(but it would be good to make processes clearer by making agency more explicit in some of the processes described instead of " In the current implementation, each version of a Dataset is archived as a single zip file (accompanied by a redundant datacite.xml file to simplify discovery"
+
+I would put it like: "The software archives each version of a Dataset as a single zip file  ..."  (and so for what administrators and programmers and end users do)
+
+## Research Object / Zenodo
+
+URL for a Research Object or Zenodo record provided? 
+   Guidelines <http://researchobject.org/ro2019/submitting> followed?
+   Open format (e.g. HTML)? NO
+   Sufficient metadata, e.g. links to software? NO - Could not find a link to the software
+   Some form of Data Package provided? NO - could have had an example by packaging the PDF and source files.
+ 
+
+(delete as appropriate)
+* basic (e.g. Zenodo with PDF and minimal metadata)
+
+## Overall evaluation
+
+This submission describes an additional service for the Dataverse software which
+creates archival packages and sends them to a couple of services. I think it
+should be made more explicit what sending means? What protocols/methods are used? "QDR
+has created classes that send zipped BagIt archive files to DuraCloud (from
+which content can then be sent into Chronopolis) or Google’s Cloud Storage
+(including the least-expensive ‘cold’ storage)".
+
+This statement is also problematic in that it takes a bit of a shortcut: "They
+produce a single archive file per Dataset version that is human and machine
+readable, providing a complete copy of research published through Dataverse that
+can be preserved using any repository providing file or object (e.g. S3)
+storage." The archive files seem to be zip files - which are NOT human readable,
+and it's debatable whether OAI-ORE is human readable. I couldn't tell from the
+example where I might find the example "Hamilton_ATI Data Overview.pdf" file in
+the zip file.
+
+But, those issues aside this looks like a useful contribution to the workshop
+and the art of data packaging.
+
+
+* accept
+
+## Review 2 
+
+* Review by: Stian Soiland-Reyes
+
+
+## Quality of Writing
+_Is the text easy to follow? Are core concepts defined or referenced? 
+Is it clear what is the author's contribution?_
+
+* good
+
+Some typos in the citations in the PDF - e.g. _"BagIt standards3"_ and _"RDRI recommends4"_ should use "[3]" etc. 
+
+References 1, 2, 5, 6 don't have corresponding inline references which should beinserted.
+
+Figure 1 has placeholder caption "_This is a caption_"
+
+## Research Object / Zenodo
+
+[x] URL for a Research Object or Zenodo record provided?
+[x] Guidelines <http://researchobject.org/ro2019/submitting> followed?
+[x] Open format (e.g. HTML)?
+[ ] Sufficient metadata, e.g. links to software?
+[ ]Some form of Data Package provided?
+
+* basic (e.g. Zenodo with PDF and minimal metadata)
+
+As the abstract is quite well structured and has 6 references it would be good if these also appeared as "Related identifiers" in the Zenodo record, or at least was hyperlinks from the PDF.
+
+A link to the Dataverse software would also fit as a Related Identifier.
+
+The Zenodo record do not specify the ORCID identifiers for any of the authors.
+
+## Overall evaluation
+
+* strong accept
+
+This abstract describes how Dataverse has been extended to support RDA data packaging recommendations for archiving along with recommended standards like BagIt. Structured metadata is examplified with the use of OAI-ORE combined with schema.org and other vocabularies.
+
+Beyond checksums the text does not describe much about where the metadata comes from, presumably from Dataverse registration fields? Thoughts on how this could be used or expanded would be interesting, particularly considerations around if Dataverse could import such metadata from uploaded data packages as well (e.g. Dataverse-to-archive-to-Dataverse transfer).
+
+I think this poster would be a strong fit for the RO2019 workshop, in particular for data packaging, infrastructure and metadata. It would be nice if the authors would also be able to demo the software during the unconference session.
+
