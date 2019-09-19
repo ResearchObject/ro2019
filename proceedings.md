@@ -94,7 +94,7 @@ RO-8 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, US
 Jackson Brown, Nicolas Weber (2019):  
 **DSDB: Reproducible Computational Modeling**.  
 RO-9 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-[https://doi.org/10.5281/zenodo.3337375](https://doi.org/10.5281/zenodo.3337375)
+<https://doi.org/10.5281/zenodo.3445531>
 [[peer review](/ro2019/reviews/9)]
 
 [Mike D'Arcy](https://orcid.org/0000-0003-2280-917X), [Kyle Chard](https://orcid.org/0000-0002-7370-4805), [Ian Foster](https://orcid.org/0000-0003-2129-5269), [Carl Kesselman](https://orcid.org/0000-0003-0917-1562), [Ravi Madduri](https://orcid.org/0000-0003-2130-2887), Nickolaus Saint, [Rick Wagner](https://orcid.org/0000-0003-1291-5876) (2019):  
