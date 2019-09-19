@@ -16,9 +16,11 @@ _(uploads assumed to be re-sharable under open access license [CC-BY 4.0](https:
 Participants can view or download [slides](https://www.dropbox.com/sh/ac1wecv9e08xsvn/AAAeE8p9vDJ_v9EjvSzCnfO-a?dl=0).
 -->
 
+A [Collaborative document](https://s.apache.org/ro2019) has been set up to collect notes, links, comments etc during the workshop.
+
 ## Schedule
 
-* **08:00-08:30** Registration Opens, Breakfast Available. Come to the room
+* **08:00-08:30** Registration Opens, Breakfast Available. Meet up in the _Cockatoo Room_!
 * **08:30-09:10** Welcome and community update by **Carole Goble**, The University of Manchester
 * **09:10-10:05** [Keynote](./#keynote-speaker), **Bertram Ludäscher**, University of Illinois at Urbana-Champaign: **From Research Objects to Reproducible Science Tales**
 * **10:05-10:30** _Coffee break_
@@ -50,7 +52,7 @@ Participants can view or download [slides](https://www.dropbox.com/sh/ac1wecv9e0
   * RO-8: David Kennedy: [The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings](https://doi.org/10.5281/zenodo.3336608) (_10 mins_)
   * RO-9: Jackson Brown: [DSDB: Reproducible Computational Modeling](https://doi.org/10.5281/zenodo.3337374) (_10 mins_)
   * _Discussion of topic and questions to presenters_ (5-10 mins)
-* **15:50-16:45** Unconference: lightning talks, posters, demos ([add yours!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=poster+demo&template=posterdemo.md&title=)), breakouts, discussions ([suggest topic!](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=))
+* **15:50-16:45** [Unconference](https://s.apache.org/ro2019): lightning talks, posters, demos, breakouts, discussions. Add yours to the [collaborative document](https://s.apache.org/ro2019)!
 * **16:45-17:00** Summary and future work
 * **17:00-19:00** eScience 2019 [Welcome Reception](https://escience2019.sdsc.edu/program) & [Gateways 2019](https://sciencegateways.org/web/gateways2019/) Poster Reception
 
