@@ -144,19 +144,19 @@ RO-15 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, U
 
 ## Accepted for poster/demo
 
-[Nic Weber](https://orcid.org/0000-0002-6008-3763) (2019):
+[Nic Weber](https://orcid.org/0000-0002-6008-3763) (2019): 
 **Packaging Municipal Legislative Event Data for Reuse & Exchange**.
 Poster. RO-16 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 Abstract: <https://doi.org/10.5281/zenodo.3380592>
 [[peer review]](/ro2019/reviews/16)]
 
-[James Myers](https://orcid.org/0000-0001-8462-650X), [Sebastian Karcher](https://orcid.org/0000-0001-8249-7388), Sebastian Ostrowski, [Nic Weber](https://orcid.org/0000-0002-6008-3763) (2019):
-**Simple, Standards-based Archiving in Dataverse**.
+[James Myers](https://orcid.org/0000-0001-8462-650X), [Sebastian Karcher](https://orcid.org/0000-0001-8249-7388), Sebastian Ostrowski, [Nic Weber](https://orcid.org/0000-0002-6008-3763) (2019): 
+**Simple, Standards-based Archiving in Dataverse**. 
 Poster. RO-17 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 Abstract: <https://doi.org/10.5281/zenodo.3384296>
 [[peer review]](/ro2019/reviews/17)] 
 
-[Jackson Brown](https://orcid.org/0000-0003-2564-0373) (2019):
+[Jackson Brown](https://orcid.org/0000-0003-2564-0373) (2019): 
 **Managing Manifests and Distributing Datasets**
 Poster. RO-18 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 Abstract: <https://doi.org/10.5281/zenodo.3384296>
