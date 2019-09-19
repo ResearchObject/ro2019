@@ -7,6 +7,7 @@ RO2019 encouraged [open peer review](reviews/), and recommend that reviewers be
 
 ## News
 
+* Accepted posters announced
 * DOIs updated for author-accepted versions
 * Open Peer reviews published
 * Accepted contributions announced

@@ -109,7 +109,30 @@ All accepted submitters were requested to _present_ at the workshop and _registe
 
 ## Keynote speaker
 
-![Bertram Ludäscher:](https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/ludaescher-square.jpg) We are proud to announce that the keynote speaker will be [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher) from University of Illinois at Urbana-Champaign. Bertram will present **From Research Objects to Reproducible Science Tales**.
+![Bertram Ludäscher:](https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/ludaescher-square.jpg) We are proud to announce that the keynote speaker will be [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher), who will present: **From Research Objects to Reproducible Science Tales**.
+
+Bertram Ludäscher is a professor at the
+[School of Information Sciences](https://ischool.illinois.edu/) at
+the [University of Illinois, Urbana-Champaign](https://illinois.edu/), where he directs the 
+[Center for Informatics Research in Science and Scholarship](http://cirss.ischool.illinois.edu/) (CIRSS).
+He is also a faculty affiliate with the
+[National Center for Supercomputing Applications](http://www.ncsa.illinois.edu/) (NCSA) and the
+[Department of Computer Science at Illinois](https://cs.illinois.edu/).
+Until 2014 he was a professor at the 
+[Department of Computer Science](https://www.cs.ucdavis.edu/) at the
+[University of California, Davis](https://www.ucdavis.edu/).
+
+His research interests range from practical questions in
+_scientific data_ and _workflow management_, to _database theory_ and _knowledge
+representation and reasoning_. 
+
+Prior to his faculty appointments, he was a
+research scientist at the [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC) and an
+adjunct faculty at the [CSE Department at UC San Diego](https://cse.ucsd.edu/). He received his M.S.
+(_Dipl.-Inform._) in Computer Science from the University of Karlsruhe (now
+[K.I.T.](https://www.kit.edu/english/)), and his PhD (_Dr. rer. nat._) from the 
+[University of Freiburg](https://www.uni-freiburg.de/), in Germany.
+
 
 ## Short bio of the organizers
 
