@@ -18,12 +18,12 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 ### News
 {:.no_toc}
 
+* [Suggest an _unconference_ activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
+* [Suggest lightning talks](https://s.apache.org/ro2019)
 * [Workshop Programme announced](schedule)
 * [Keynote Speaker announced](#keynote-speaker)
 * [Proceedings published](proceedings)
 * [Open Peer Reviews published](reviews/)
-* [Suggest an _unconference_ activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
-* [Suggest lightning talks](https://s.apache.org/ro2019)
 * Twitter hashtags: [#eScience2019](https://twitter.com/hashtag/eScience2019?f=live) [#ResearchObjects](https://twitter.com/hashtag/ResearchObjects?f=live) (plural!)
 
 
