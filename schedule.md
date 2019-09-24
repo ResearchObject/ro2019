@@ -48,7 +48,7 @@ A [Collaborative document](https://s.apache.org/ro2019) has been set up to colle
   * _Discussion of topic and questions to presenters_ (5-10 mins)
 * **14:35-15:00** _Snack break_
 * **15:00-15:15** Paper and abstract presentations: **Reproducibility**
-  * RO-6: Bertram Ludaescher: [Reproducibility by Other Means: Transparent Research Objects](https://doi.org/10.5281/zenodo.3270559) (_paper presentation 15 mins_)
+  * RO-6: Bertram Ludaescher: [Reproducibility by Other Means: Transparent Research Objects](https://doi.org/10.5281/zenodo.3270559) (_paper presentation 15 mins_) [[slides](https://www.slideshare.net/mobile/TimothyMcPhillips/reproducibility-by-other-means-transparent-research-objects)]
   * RO-8: David Kennedy: [The ReproPub: A hybrid research object for supporting publication-level re-execution and generalization of neuroimaging research findings](https://doi.org/10.5281/zenodo.3336608) (_10 mins_)
   * RO-9: Jackson Brown: [DSDB: Reproducible Computational Modeling](https://doi.org/10.5281/zenodo.3337374) (_10 mins_)
   * _Discussion of topic and questions to presenters_ (5-10 mins)
