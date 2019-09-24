@@ -21,14 +21,14 @@ A [Collaborative document](https://s.apache.org/ro2019) has been set up to colle
 ## Schedule
 
 * **08:00-08:30** Registration Opens, Breakfast Available. Meet up in the _Cockatoo Room_!
-* **08:30-09:10** Welcome and community update by **Carole Goble**, The University of Manchester
+* **08:30-09:10** Welcome and community update by **Carole Goble**, The University of Manchester [[slides](https://www.dropbox.com/s/azpnrslrqa48118/Carole%20Goble%20-%20RO2019-GOBLE.pptx?dl=0)]
 * **09:10-10:05** [Keynote](./#keynote-speaker), **Bertram Ludäscher**, University of Illinois at Urbana-Champaign: **From Research Objects to Reproducible Science Tales**
 * **10:05-10:30** _Coffee break_
 * **10:30-11:30** Paper and abstract presentations: **Packaging**
-  * RO-5: Craig Willis: [Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses](https://doi.org/10.5281/zenodo.3268965) (_paper presentation 15 mins_)
+  * RO-5: Craig Willis: [Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses](https://doi.org/10.5281/zenodo.3268965) (_paper presentation 15 mins_) [[slides](https://www.dropbox.com/s/azpnrslrqa48118/Carole%20Goble%20-%20RO2019-GOBLE.pptx?dl=0)]
   * RO-1: Anita Bandrowski: [How BIDs and BIDs validator has informed the data aggregation needs of the Stimulating Peripheral Activity to Relieve Conditions, SPARC, consortium](https://doi.org/10.5281/zenodo.3265460) (_10 mins_)
   * RO-10: Kyle Chard: [Big Data Bags: A Scalable Packaging Format for Science](https://doi.org/10.5281/zenodo.3338724) (_10 mins_)
-  * RO-15: Stian Soiland-Reyes: [RO-Crate, a lightweight approach to Research Object data packaging](https://doi.org/10.5281/zenodo.3337882) (_10 mins_)
+  * RO-15: Stian Soiland-Reyes: [RO-Crate, a lightweight approach to Research Object data packaging](https://doi.org/10.5281/zenodo.3337882) (_10 mins_) [[slides](http://slides.com/soilandreyes/2019-09-24-ro-crate)]
   * Discussion of topic and questions to presenters (5-10 mins)
 * **11:30-11:55** Abstract presentations: **Credit**
   * RO-13: Kristi Holmes: [Architecting Attribution: expanding the scope of academic credit](https://doi.org/10.5281/zenodo.3337882) (_10 mins_)
