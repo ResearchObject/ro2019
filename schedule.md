@@ -31,7 +31,7 @@ A [Collaborative document](https://s.apache.org/ro2019) has been set up to colle
   * RO-15: Stian Soiland-Reyes: [RO-Crate, a lightweight approach to Research Object data packaging](https://doi.org/10.5281/zenodo.3337882) (_10 mins_) [[slides](http://slides.com/soilandreyes/2019-09-24-ro-crate)]
   * Discussion of topic and questions to presenters (5-10 mins)
 * **11:30-11:55** Abstract presentations: **Credit**
-  * RO-13: Kristi Holmes: [Architecting Attribution: expanding the scope of academic credit](https://doi.org/10.5281/zenodo.3337882) (_10 mins_)
+  * RO-13: James Eddy ~~Kristi Holmes~~: [Architecting Attribution: expanding the scope of academic credit](https://doi.org/10.5281/zenodo.3337882) (_10 mins_) [[slides](https://www.dropbox.com/s/pikz7z31pitfsyv/RO-13-James%20Eddy%20-%20RO2019_ArchitectingAttribution.pdf?dl=0)]
   * RO-14: Daniel Katz: [Citation and Research Objects: Toward Active Research Objects](https://doi.org/10.5281/zenodo.3336147) (_10 mins_)
   * _Discussion of topic and questions to presenters_ (5 mins)  
 * **11:55-12:05** Unconference brain-storming, informal poster intro
