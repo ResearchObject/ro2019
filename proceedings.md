@@ -24,6 +24,7 @@ _Research papers were accepted for [talks](/ro2019/schedule/) at RO2019 and will
 RO-2 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_.  
 Preprint: <https://doi.org/10.5281/zenodo.3268809>
+Cite as: <https://doi.org/10.1109/eScience.2019.00067> (_in print_)
 [[peer review](/ro2019/reviews/2)]
 
 [Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):  
@@ -31,6 +32,7 @@ Preprint: <https://doi.org/10.5281/zenodo.3268809>
 RO-3 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: <https://doi.org/10.5281/zenodo.3358983>
+Cite as: <https://doi.org/10.1109/eScience.2019.00069> (_in print_)
 [[peer review](/ro2019/reviews/3)]
 
 [Kyle Chard](https://orcid.org/0000-0002-7370-4805),
@@ -48,6 +50,7 @@ Thomas Thelen,
 RO-5 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: <https://doi.org/10.5281/zenodo.3381754>
+Cite as: <https://doi.org/10.1109/eScience.2019.00068> (_in print_)
 [[BDBag](https://zenodo.org/record/3381754/files/5cb4ffead9323600016c4d4c.zip?download=1)]
 [[peer review](/ro2019/reviews/5)]
 
@@ -60,6 +63,7 @@ Timothy M. McPhillips, <!-- https://orcid.org/0000-0002-8238-2449 -->
 RO-6 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
 To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_.  
 Preprint: <https://doi.org/10.5281/zenodo.3382423>
+Cite as: <https://doi.org/10.1109/eScience.2019.00066> (_in print_)
 [[peer review](/ro2019/reviews/6)]
 
 
