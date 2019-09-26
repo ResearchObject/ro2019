@@ -62,7 +62,7 @@ Timothy M. McPhillips, <!-- https://orcid.org/0000-0002-8238-2449 -->
 [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):
  **Reproducibility by Other Means: Transparent Research Objects**.  
 RO-6 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 502–509. 
+To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 502–509.  
 Preprint: <https://doi.org/10.5281/zenodo.3382423>  
 Cite as: <https://doi.org/10.1109/eScience.2019.00066> (_in print_)  
 [[peer review](/ro2019/reviews/6)]
