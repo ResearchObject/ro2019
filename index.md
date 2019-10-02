@@ -4,7 +4,7 @@
 _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://www.researchobject.org/ro2019/>
 
 * **Location:** San Diego, CA, US
-* **Venue:** [IEEE eScience 2019](https://escience2019.sdsc.edu) ([fees](https://escience2019.sdsc.edu/registration) apply)
+* **Venue:** [IEEE eScience 2019](https://escience2019.sdsc.edu) ([fees](https://escience2019.sdsc.edu/registration) applied)
 * **When:** Tuesday 24 September 2019 (2019-09-24)
 * **Duration:** 1 day
 * **Previous workshop:** [RO2018](http://www.researchobject.org/ro2018/)
@@ -18,14 +18,12 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 ### News
 {:.no_toc}
 
-* [Suggest an _unconference_ activity](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=)
-* [Suggest lightning talks](https://s.apache.org/ro2019)
+* RO2019 workshop was held at eScience 2019, San Diego
 * [Workshop Programme announced](schedule)
 * [Keynote Speaker announced](#keynote-speaker)
 * [Proceedings published](proceedings)
 * [Open Peer Reviews published](reviews/)
-* Twitter hashtags: [#eScience2019](https://twitter.com/hashtag/eScience2019?f=live) [#ResearchObjects](https://twitter.com/hashtag/ResearchObjects?f=live) (plural!)
-
+* Twitter hashtags: [#ResearchObjects](https://twitter.com/hashtag/ResearchObjects?f=live) [#eScience2019](https://twitter.com/hashtag/eScience2019?f=live) 
 
 ### Resources
 
@@ -48,8 +46,6 @@ _Workshop at [IEEE eScience 2019](https://escience2019.sdsc.edu)_ — <http://ww
 * Stian Soiland-Reyes (The University of Manchester, UK; Apache Software Foundation)
 * Daniel Garijo (University of Southern California, US)
 
-Please contact the organizers at [ro2019@easychair.org](ro2019@easychair.org) for any questions.
-
 ## Description
 
 Scholarly Communication has evolved significantly in recent years, with an increasing focus on **Open Research**, [FAIR](https://doi.org/10.1038/sdata.2016.18) data sharing and community-developed open source methods. The concepts of _authorship_ and _citation_ are changing, as researchers are increasingly reusing and evolving common software tools and datasets. Yet with a growing amount of cloud compute power and open platforms available, **reproducibility** of computational analyses becomes more challenging, and not yet commonly included in peer review. While recent advances in scientific **workflows** and **provenance** capture systems have improved on this situation, a question remains on how to _publish, archive, explore_ and _understand_ digital research outputs, as academic authors and publishers remain focused on PDFs and the occasional CSV file, with the Web and Open Research often left to "best effort" rather than being the expected norm.
@@ -70,9 +66,9 @@ One such approach is [Research Object](http://www.researchobject.org/) which has
 
 However, many challenges remain as to how to increase Research Object uptake with data providers, researchers, infrastructures, publishers and other stakeholders; credit and tracking metrics; develop supporting tooling; building effective community efforts and the relationship of rich metadata manifests with emerging container platforms.
 
-In this workshop, following on from the successful [RO2018](http://www.researchobject.org/ro2018/) held at eScience 2018, we will explore recent advancements in Research Objects and publishing of research data. 
+In this workshop, following on from the successful [RO2018](http://www.researchobject.org/ro2018/) held at eScience 2018, we explored recent advancements in Research Objects and publishing of research data. 
 
-This workshop aims for a mix of presentation sessions and _unconferencing_ sessions including:
+This workshop aimed for a mix of presentation sessions and _unconferencing_ sessions including:
 
 *   Keynotes and invited talks
 *   Presentations selected from short article submissions and extended abstracts
@@ -80,7 +76,7 @@ This workshop aims for a mix of presentation sessions and _unconferencing_ sessi
 *   2-minute Lightning talks for ad-hoc presentations and hot topics
 *   Break-out sessions to further build relationships across scientific domains and RO practitioners.
 
-To suggest lightning talks, demos, discussion topics and break-out sessions, add to the [RO2019 collective notes](https://s.apache.org/ro2019) or [add to GitHub](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=).
+To suggest lightning talks, demos, discussion topics and break-out sessions, workshop participants could add to the [RO2019 collective notes](https://s.apache.org/ro2019) or [add to GitHub](https://github.com/ResearchObject/ro2019/issues/new?assignees=&labels=unconference&template=unconference.md&title=).
 
 ## Submissions
 
@@ -103,13 +99,13 @@ Please see our [submission guide](submitting) for details. Authors could then ei
 * ~~2019-08-30 Camera-ready papers due for accepted articles in (IEEE eScience proceedings)~~
 * ~~2019-09-02 RO2019 submissions due: poster/demo abstracts~~
 * ~~2019-09-09 RO2019 [Programme](schedule) finalized~~
-* **2019-09-24** RO2019 at IEEE eScience 2019
+* ~~**2019-09-24** RO2019 at IEEE eScience 2019~~
 
 All accepted submitters were requested to _present_ at the workshop and _register_ for [IEEE eScience 2019](https://escience2019.sdsc.edu/), where [fees](https://escience2019.sdsc.edu/registration) apply.
 
 ## Keynote speaker
 
-![Bertram Ludäscher:](https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/ludaescher-square.jpg) We are proud to announce that the keynote speaker will be [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher), who will present: **From Research Objects to Reproducible Science Tales**.
+![Bertram Ludäscher:](https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/ludaescher-square.jpg) The keynote speaker was [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher), who presented: **From Research Objects to Reproducible Science Tales**.
 
 Bertram Ludäscher is a professor at the
 [School of Information Sciences](https://ischool.illinois.edu/) at
