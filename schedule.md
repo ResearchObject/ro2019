@@ -51,9 +51,9 @@ A [Collaborative document](https://s.apache.org/ro2019) was set up to collect no
   * RO-9: Jackson Brown: [DSDB: Reproducible Computational Modeling](https://doi.org/10.5281/zenodo.3337374) (_10 mins_)
   * _Discussion of topic and questions to presenters_ (5-10 mins) [[slides](https://www.dropbox.com/sh/ac1wecv9e08xsvn/AABoOLCPrm_2RX_rRTwLfYLra/06-reproducibility?dl=0&preview=RO-9-Jackson+Brown+-+DSDB.pptx&subfolder_nav_tracking=1)]
 * **15:50-16:45** [Unconference](https://s.apache.org/ro2019): lightning talks, posters, demos, breakouts, discussions. See the [collaborative notes](https://s.apache.org/ro2019)!
-* ~ **16:10** Informal poster session:
-  * RO-16: Nick Weber: [Packaging Municipal Legislative Event Data for Reuse & Exchange](https://doi.org/10.5281/zenodo.3380592) [[poster]()] (_awaiting pdf_)
-  * RO-17: Nick Weber: [Simple, Standards-based Archiving in Dataverse](https://doi.org/10.5281/zenodo.3384296) [[poster]()] (_awaiting pdf_)  
+* ~ **16:10** [Informal poster session](https://twitter.com/soilandreyes/status/1176635559650840576):
+  * RO-16: Nick Weber: [Packaging Municipal Legislative Event Data for Reuse & Exchange](https://doi.org/10.5281/zenodo.3380592) [[poster](https://twitter.com/soilandreyes/status/1176635559650840576/photo/1)] (_awaiting pdf_)
+  * RO-17: Nick Weber: [Simple, Standards-based Archiving in Dataverse](https://doi.org/10.5281/zenodo.3384296) [[poster](https://twitter.com/soilandreyes/status/1176636427339087872/photo/1)] (_awaiting pdf_)  
   * RO-18: Jackson Brown: [Managing Manifests and Distributing Datasets](https://doi.org/10.5281/zenodo.3384296) [[poster](https://www.dropbox.com/sh/ac1wecv9e08xsvn/AADvWuhbNu6BqUntGga6BkaVa/07-unconference_and_lightning_talks?dl=0&preview=RO-18-POSTER-Jackson+Brown+-+RO2019-Quilt3Distribute.pdf&subfolder_nav_tracking=1)]
 * **16:45-17:00** Summary and future work
 * **17:00-19:00** eScience 2019 [Welcome Reception](https://escience2019.sdsc.edu/program) & [Gateways 2019](https://sciencegateways.org/web/gateways2019/) Poster Reception
