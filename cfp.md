@@ -12,7 +12,7 @@ Workshop on Research Objects (RO2019)
 * ~~2019-07-27 RO2019 Notification of acceptance~~
 * ~~2019-08-30 Camera-ready papers due for accepted articles~~
 * ~~2019-09-02 RO2019 submissions due: poster/demo abstracts~~
-* **2019-09-24** RO2019 at IEEE eScience 2019
+* ~~**2019-09-24** RO2019 at IEEE eScience 2019~~
 
 
 
