@@ -3,20 +3,18 @@
 * **Venue:** [IEEE eScience 2019](https://escience2019.sdsc.edu/workshops), [Catamaran Resort Hotel and Spa](https://escience2019.sdsc.edu/venue), San Diego, CA, US
 * **Room:** Cockatoo Room
 * **Date:** Tuesday 24 September 2019 (2019-09-24) _full day_
-* **Cost**: [Registration fees apply](https://escience2019.sdsc.edu/registration), _Single Day_ fee available ($300)
+* **Cost**: [Registration fees applied](https://escience2019.sdsc.edu/registration)
 
-Twitter hashtags: [#eScience2019](https://twitter.com/hashtag/eScience2019?f=live) [#ResearchObjects](https://twitter.com/hashtag/ResearchObjects?f=live) (plural!)
+Twitter hashtags: [#ResearchObjects](https://twitter.com/hashtag/ResearchObjects?f=live) [#eScience2019](https://twitter.com/hashtag/eScience2019?f=live) 
 
 ## Slides
 
-RO2019 presenters are kindly requested to upload slides at <https://www.dropbox.com/request/B1EDF6bNOULm9wS5S7Z7>
-_(uploads assumed to be re-sharable under open access license [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise noted)_
+RO2019 presenters were kindly requested to upload slides at <https://www.dropbox.com/request/B1EDF6bNOULm9wS5S7Z7>
+_(uploads were assumed to be re-sharable under open access license [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise noted)_
 
-<!--
-Participants can view or download [slides](https://www.dropbox.com/sh/ac1wecv9e08xsvn/AAAeE8p9vDJ_v9EjvSzCnfO-a?dl=0).
--->
+Participants can view or download [slides](https://www.dropbox.com/sh/ac1wecv9e08xsvn/AAAeE8p9vDJ_v9EjvSzCnfO-a?dl=0). (_TODO: Organize & link to slides_)
 
-A [Collaborative document](https://s.apache.org/ro2019) has been set up to collect notes, links, comments etc during the workshop.
+A [Collaborative document](https://s.apache.org/ro2019) was set up to collect notes, links, comments etc during the workshop.
 
 ## Schedule
 
@@ -61,9 +59,9 @@ See also the [list of accepted papers and abstracts](/ro2019/proceedings) and th
 
 ### More of eScience 2019
 
-RO2019 is on the first [workshop day of eScience 2019](https://escience2019.sdsc.edu/workshops). See the [eScience 2019 programme](https://escience2019.sdsc.edu/program) for the full schedule of eScience covering the rest of the week.
+RO2019 was on the first [workshop day of eScience 2019](https://escience2019.sdsc.edu/workshops). See the [eScience 2019 programme](https://escience2019.sdsc.edu/program) for the full schedule of eScience covering the rest of the week.
 
-The conference [Gateways 2019](https://sciencegateways.org/web/gateways2019/) runs in parallel and include [tutorials](https://sciencegateways.org/web/gateways2019/program/schedule) on Monday 23 Sept 2019. Additional registration fees apply to attend the Gateways tutorials.
+The conference [Gateways 2019](https://sciencegateways.org/web/gateways2019/) ran in parallel and included [tutorials](https://sciencegateways.org/web/gateways2019/program/schedule) on Monday 23 Sept 2019. Additional registration fees applied to attend the Gateways tutorials.
 
 
 
