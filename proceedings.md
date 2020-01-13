@@ -16,9 +16,15 @@ RO2019 encouraged [open peer review](reviews/), and recommend that reviewers be
 
 ## Articles
 
-_Research papers were accepted for [talks](/ro2019/schedule/) at RO2019 and will be published in the [IEEE eScience 2019](https://escience2019.sdsc.edu/) official [conference proceedings](https://ieeexplore.ieee.org/servlet/opac?punumber=1001511) (ISBN 978-1-7281-2451-3/19).  Accepted abstracts are published below and in the [Zenodo ResearchObject community](https://zenodo.org/communities/ro)._
+_Research papers were accepted for [talks](/ro2019/schedule) at RO2019 and will be published in the [IEEE eScience 2019](https://escience2019.sdsc.edu/) official [conference proceedings](https://ieeexplore.ieee.org/servlet/opac?punumber=1001511) (ISBN 978-1-7281-2451-3/19).  Accepted abstracts are published below and in the [Zenodo ResearchObject community](https://zenodo.org/communities/ro)._
 
 > **Note**: Publications in the _IEEE eScience 2019 proceedings_ are unfortunately not Open Access. To encourage [Green Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436) we recommended paper authors post their _camera-ready version_ on [arXiv](https://arxiv.org/) or their institutional preprint server according to [IEEE's article sharing policies](https://ieeeauthorcenter.ieee.org/publish-with-ieee/author-education-resources/guidelines-and-policies/policy-posting-your-article/). 
+
+See also:
+
+* [slides linked from schedule](/ro2019/schedule)
+* [call for contributions](/ro2019/cfp)
+* [reviews](/ro2019/reviews)
 
 [Katrina Fenlon](https://orcid.org/0000-0003-1483-5335) (2019):  
 **Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects**.  
