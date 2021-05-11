@@ -23,7 +23,7 @@ RO2019 encouraged [open peer review](reviews/), and recommend that reviewers be
 
 ## Articles
 
-_Research papers were accepted for [talks](/ro2019/schedule) at RO2019 and will be published in the [IEEE eScience 2019](https://escience2019.sdsc.edu/) official [conference proceedings](https://ieeexplore.ieee.org/servlet/opac?punumber=1001511) (ISBN 978-1-7281-2451-3/19).  Accepted abstracts are published below and in the [Zenodo ResearchObject community](https://zenodo.org/communities/ro)._
+_Research papers were accepted for [talks](/ro2019/schedule) at RO2019 and were published in the [IEEE eScience 2019](https://escience2019.sdsc.edu/) official [conference proceedings](https://ieeexplore.ieee.org/xpl/conhome/9036011/proceeding) (ISBN 978-1-7281-2451-3/19).  Accepted abstracts are published below and in the [Zenodo ResearchObject community](https://zenodo.org/communities/ro)._
 
 > **Note**: Publications in the _IEEE eScience 2019 proceedings_ are unfortunately not Open Access. To encourage [Green Open Access](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436) we recommended paper authors post their _camera-ready version_ on [arXiv](https://arxiv.org/) or their institutional preprint server according to [IEEE's article sharing policies](https://ieeeauthorcenter.ieee.org/publish-with-ieee/author-education-resources/guidelines-and-policies/policy-posting-your-article/). 
 
@@ -32,17 +32,17 @@ _Research papers were accepted for [talks](/ro2019/schedule) at RO2019 and will 
 [Katrina Fenlon](https://orcid.org/0000-0003-1483-5335) (2019):  
 **Interactivity, Distributed Workflows, and Thick Provenance: A Review of Challenges Confronting Digital Humanities Research Objects**.  
 RO-2 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-To appear in _2019 IEEE 14th International Conference on e-Science (e-Science)_, pp. 510–513.  
+_2019 IEEE 14th International Conference on e-Science (e-Science)_, pp. 510–513.  
 Preprint: <https://doi.org/10.5281/zenodo.3268809>  
-Cite as: <https://doi.org/10.1109/eScience.2019.00067> (_in print_)  
+Cite as: <https://doi.org/10.1109/eScience.2019.00067>  
 [[peer review](/ro2019/reviews/2)]
 
 [Imran Asif](https://orcid.org/0000-0002-1144-6265), [Jessica Chen-Burger](https://orcid.org/0000-0002-7909-0541), [Alasdair J G Gray](https://orcid.org/0000-0002-5711-4872) (2019):  
 **Data Quality Issues in Current Nanopublications**.  
 RO-3 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 522–527.  
+_2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 522–527.  
 Preprint: <https://doi.org/10.5281/zenodo.3358983>  
-Cite as: <https://doi.org/10.1109/eScience.2019.00069> (_in print_)  
+Cite as: <https://doi.org/10.1109/eScience.2019.00069>  
 [[peer review](/ro2019/reviews/3)]
 
 [Kyle Chard](https://orcid.org/0000-0002-7370-4805),
@@ -58,9 +58,9 @@ Thomas Thelen,
 [Craig Willis](https://orcid.org/0000-0002-6148-7196) (2019):  
 **Application of BagIt-Serialized Research Object Bundles for Packaging and Re-execution of Computational Analyses**.  
 RO-5 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 514–521.  
+_2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 514–521.  
 Preprint: <https://doi.org/10.5281/zenodo.3381754>  
-Cite as: <https://doi.org/10.1109/eScience.2019.00068> (_in print_)  
+Cite as: <https://doi.org/10.1109/eScience.2019.00068> 
 [[BDBag](https://zenodo.org/record/3381754/files/5cb4ffead9323600016c4d4c.zip?download=1)]
 [[peer review](/ro2019/reviews/5)]
 
@@ -71,9 +71,9 @@ Timothy M. McPhillips, <!-- https://orcid.org/0000-0002-8238-2449 -->
 [Bertram Ludäscher](https://orcid.org/0000-0001-9140-936X) (2019):
  **Reproducibility by Other Means: Transparent Research Objects**.  
 RO-6 at _Workshop on Research Objects (RO 2019), 24 Sept 2019, San Diego, CA, USA._  
-To appear in _2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 502–509.  
+_2019 IEEE 15th International Conference on e-Science (e-Science)_, pp. 502–509.  
 Preprint: <https://doi.org/10.5281/zenodo.3382423>  
-Cite as: <https://doi.org/10.1109/eScience.2019.00066> (_in print_)  
+Cite as: <https://doi.org/10.1109/eScience.2019.00066>
 [[peer review](/ro2019/reviews/6)]
 
 
